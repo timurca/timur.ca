@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en-us" ng-app="myApp">
+    <head>
+        <title>Logs</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta charset="UTF-8">
+
+    
+    <link rel="stylesheet" href="css.css" media="all">        
+        <!-- load angular via CDN -->
+        <script src="https://code.angularjs.org/1.3.0-rc.1/angular.min.js"></script>
+        <script src="https://code.angularjs.org/1.3.0-rc.1/angular-route.min.js"></script>
+        <script src="app.js"></script>
+
+    </head>
+
+    <body ng-controller="menuController">
+    
+
+    
+    <div class="container">  
+        a
+        <h1>{{ name }}</h1>
+
+        <div class="nav">  
+            <ul class="row">  
+                <li>
+                    <button class="btn" onclick="toggle_visibility('showMenu1');">Menu1 <span class="caret arrow-down"></span></button>
+                     <div id="showMenu1">
+                        <ul class="list">
+                                <li><a href="#">Home <span id="num1"></span></a></li>
+                                <li><a href="#/second">Second <span id="num2"></span></a></li>
+                                <li><a href="#/third">Third <span id="num3"></span></a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li>
+                    <button class="btn" onclick="toggle_visibility('showMenu2');">Menu2 <span class="caret arrow-down"></span></button>
+                    <div id="showMenu2">
+                        <ul class="list">
+                            <li><a href="#/fourth"> Fourth <span id="num4"></span></a></li>
+                            <li><a href="#/fifth"> Fifth <span id="num5"></span></a></li>
+                            <li><a href="#/sixth"> Sixth <span id="num6"></span></a></li>
+                            <li><a href="#/seventh"> Seventh <span id="num7"></span></a></li> 
+                        </ul>
+                    </div>
+                </li>              
+                <li>
+                    <button class="btn" onclick="toggle_visibility('showMenu3');">Menu3 <span class="caret arrow-down"></span></button>
+                    <div id="showMenu3">
+                        <ul class="list">
+                             <li><a href="#/eighth"> Eighth <span id="num8"></span></a></li>
+                             <li><a href="#/nineth"> Nineth <span id="num9"></span></a></li>
+                             <li><a href="#/tenth"> Tenth <span id="num10"></span></a></li>
+                        </ul>
+                    </div>
+                </li> 
+                <li>
+                    <button class="btn" onclick="toggle_visibility('showMenu4');">Menu4 <span class="caret arrow-down"></span></button>
+                    <div id="showMenu4">
+                        <ul class="list">
+                           <li><a href="#/eleventh"> Eleventh <span id="num11"></span></a></li> 
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    
+
+        <div class="data_pg_container">
+
+            <div ng-view></div>
+            
+        </div>
+
+    </div>
+    
+
+
+
+    
+
+    </body>
+         <script src="js.js"></script>
+</html>
