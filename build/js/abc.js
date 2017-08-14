@@ -1,1 +1,0 @@
-function toggle_visibility(e){var l=document.getElementById(e);"block"==l.style.display?(l.style.display="none",console.log(l.this)):l.style.display="block"}var liCount=function(e,l){console.log(e);var t=document.getElementById(e),n=t.getElementsByTagName("li").length;console.log(n),document.getElementById(l).innerHTML="("+n+")"};
