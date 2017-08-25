@@ -19,10 +19,13 @@
     padding: 3px 6px;
 }
 
+.nav_sc_md { float: right; position: relative; top:-34px; }
 
+.text-center { text-align: center; margin: 0 auto; }
 
 @media only screen and (max-width: 576px) {
   .hidden-xs { display: none; } 
 }
 
 
+ul.icon_list li { float: left; list-style: none; }
