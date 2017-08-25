@@ -14,8 +14,8 @@
     <table class="table table-hover">
         <tbody>
         	<tr ng-repeat="c in todos | filter:searchBar">
-        		<td scope="row" ng-bind-html="c.date"></td>
-        		<td scope="row"><span ng-bind-html="c.label" class="labelbg"></span></td>
+        		<td scope="row" ng-bind-html="c.date" class="hidden-xs"></td>
+        		<td scope="row" class="hidden-xs"><span ng-bind-html="c.label" class="labelbg"></span></td>
         		<td scope="row" ng-bind-html="c.item"></td>
         	</tr>
         </tbody>
