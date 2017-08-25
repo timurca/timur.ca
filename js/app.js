@@ -1,163 +1,143 @@
-var myApp = angular.module('myApp', ['ngRoute']);
+var myApp = angular.module('myApp', ['ngRoute', 'ngSanitize']);
+
+myApp.controller('Controller2', function($scope, data, $sce) {
+    console.log(data);
+    $scope.todos = data;
+    // $scope.trustedHtml = function(html){
+    //   return $sce.trustAsHtml(html);
+    // }
+});
+
+myApp.controller('Controller3', function($scope, data, $sce) {
+  $scope.todos = data;
+   $scope.trustedHtml = function(html){
+      return $sce.trustAsHtml(html);
+    }
+});
+
+myApp.controller('Controller4', function($scope, data, $sce) {
+    $scope.todos = data;
+});
+
+myApp.controller('Controller5', function($scope, data, $sce) {
+    $scope.todos = data;
+});
+
+myApp.controller('Controller6', function($scope, data, $sce) {
+    $scope.todos = data;
+});
+
+myApp.controller('Controller7', function($scope, data, $sce) {
+    $scope.todos = data;
+});
+
+myApp.controller('Controller8', function($scope, data, $sce) {
+    $scope.todos = data;
+});
+
+myApp.controller('Controller9', function($scope, data, $sce) {
+    $scope.todos = data;
+});
 
 
+myApp.service('ApiService', function($http) {
+  var api = {};
+
+  api.getDataByPage = function(index) {
+    return $http.get('js/data.json').then(function(res) {
+        return res.data[0]['page' + index];
+    });
+  }
+
+  return api;
+});
 
 myApp.config(function ($routeProvider) {
     
     $routeProvider
     
     .when('/', {
-        templateUrl: 'pages/1.html',
-        controller: 'Controller1'
+        templateUrl: 'pages/1.html'
     })
     
     .when('/second', {
         templateUrl: 'pages/2.html',
-        controller: 'Controller2'
+        controller: 'Controller2',
+        resolve: {
+            data: function(ApiService) {
+                return ApiService.getDataByPage(2);
+            }
+        }
     })
 
     .when('/third', {
         templateUrl: 'pages/3.html',
-        controller: 'Controller3'
+        controller: 'Controller3',
+        resolve: {
+            data: function(ApiService) {
+                return ApiService.getDataByPage(3);
+            }
+        }
     })
 
     .when('/fourth', {
         templateUrl: 'pages/4.html',
-        controller: 'Controller4'
+        controller: 'Controller4',
+        resolve: {
+            data: function(ApiService) {
+                return ApiService.getDataByPage(4);
+            }
+        }
     })
 
-    .when('/fifth', {
+    .when('/five', {
         templateUrl: 'pages/5.html',
-        controller: 'Controller5'
+        controller: 'Controller5',
+        resolve: {
+            data: function(ApiService) {
+                return ApiService.getDataByPage(5);
+            }
+        }
     })
 
-    .when('/sixth', {
+    .when('/six', {
         templateUrl: 'pages/6.html',
-        controller: 'Controller6'
+        controller: 'Controller6',
+        resolve: {
+            data: function(ApiService) {
+                return ApiService.getDataByPage(6);
+            }
+        }
     })
 
-    .when('/seventh', {
+    .when('/seven', {
         templateUrl: 'pages/7.html',
-        controller: 'Controller7'
+        controller: 'Controller7',
+        resolve: {
+            data: function(ApiService) {
+                return ApiService.getDataByPage(7);
+            }
+        }
     })
 
-    .when('/eighth', {
+    .when('/eight', {
         templateUrl: 'pages/8.html',
-        controller: 'Controller8'
+        controller: 'Controller8',
+        resolve: {
+            data: function(ApiService) {
+                return ApiService.getDataByPage(8);
+            }
+        }
     })
 
-    .when('/nineth', {
+    .when('/nine', {
         templateUrl: 'pages/9.html',
-        controller: 'Controller9'
+        controller: 'Controller9',
+        resolve: {
+            data: function(ApiService) {
+                return ApiService.getDataByPage(9);
+            }
+        }
     })
 
-    .when('/tenth', {
-        templateUrl: 'pages/10.html',
-        controller: 'Controller10'
-    })
-
-    .when('/eleventh', {
-        templateUrl: 'pages/11.html',
-        controller: 'Controller11'
-    })
-
-    
 });
-
-myApp.controller('menuController', ['$scope', function($scope) {
-
-    $scope.name = 'title_placeholder';
-
-
-    
-}]);
-
-myApp.controller('Controller1', ['$scope', function($scope) {
-
-    $scope.name = 'List #1';
-    $scope.handle = liCount('list1', 'num1'); 
-
-    
-}]);
-
-myApp.controller('Controller2', ['$scope', function($scope) {
-    
-    $scope.name = 'List #2';
-    $scope.handle = liCount('list2', 'num2');
-   
-    
-}]);
-
-myApp.controller('Controller3', ['$scope', function($scope) {
-    
-    $scope.name = 'List #3';
-    $scope.handle = liCount('list3', 'num3');
-   
-    
-}]);
-
-myApp.controller('Controller4', ['$scope', function($scope) {
-    
-    $scope.name = 'List #4';
-    $scope.handle = liCount('list4', 'num4');
-   
-    
-}]);
-
-myApp.controller('Controller5', ['$scope', function($scope) {
-    
-    $scope.name = 'List #5';
-    $scope.handle = liCount('list5', 'num5');
-   
-    
-}]);
-
-myApp.controller('Controller6', ['$scope', function($scope) {
-    
-    $scope.name = 'List #6';
-    $scope.handle = liCount('list6', 'num6');
-   
-    
-}]);
-
-myApp.controller('Controller7', ['$scope', function($scope) {
-    
-    $scope.name = 'List #7';
-    $scope.handle = liCount('list7', 'num7');
-   
-    
-}]);
-
-myApp.controller('Controller8', ['$scope', function($scope) {
-    
-    $scope.name = 'List #8';
-    $scope.handle = liCount('list8', 'num8');
-   
-    
-}]);
-
-myApp.controller('Controller9', ['$scope', function($scope) {
-    
-    $scope.name = 'List #9';
-    $scope.handle = liCount('list9', 'num9');
-   
-    
-}]);
-
-myApp.controller('Controller10', ['$scope', function($scope) {
-    
-    $scope.name = 'List #10';
-    $scope.handle = liCount('list10', 'num10');
-   
-    
-}]);
-
-myApp.controller('Controller11', ['$scope', function($scope) {
-    
-    $scope.name = 'List #11';
-    $scope.handle = liCount('list11', 'num11');
-   
-    
-}]);
-
-

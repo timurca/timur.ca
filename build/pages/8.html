@@ -1,0 +1,72 @@
+
+<h2>Page 8</h2>
+<h2>Golf Scorecards</h2>
+<div id="page8">
+
+    <form>
+    <div class="form-group">
+      <div class="input-group">
+        <div class="input-group-addon"><i class="fa fa-search"></i></div>
+        <input type="text" class="form-control" placeholder="Filter" ng-model="searchBar">
+      </div>      
+    </div>
+    </form>
+
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr class="table-success">
+              <th>Date</th>
+              <th>Club</th>
+              <th>Par</th>
+              <th class="hidden-xs">Shots</th>
+              <th>Score</th>
+              <th class="hidden-xs">Boggie</th>
+              <th class="hidden-xs">Par</th>
+              <th class="hidden-xs">Birdie</th>
+              <th class="hidden-xs">Eagle</th>
+              <th class="hidden-xs">Notes</th>
+              <!-- <th class="hidden-xs">Price</th> -->
+              <th class="hidden-xs">Friends</th>
+            </tr>
+      </thead>
+        <tbody>
+        	<tr ng-repeat="c in todos | filter:searchBar">
+            <td scope="row" ng-bind-html="c.date"></td>
+            <td scope="row" ng-bind-html="c.club"></td>
+            <td scope="row" ng-bind-html="c.cp"></td>
+            <td class="hidden-xs" scope="row" ng-bind-html="c.shots"></td>
+            <td scope="row" ng-bind-html="c.score"></td>
+            <td class="hidden-xs" scope="row" ng-bind-html="c.bog"></td>
+            <td class="hidden-xs" scope="row" ng-bind-html="c.par"></td>
+            <td class="hidden-xs" scope="row" ng-bind-html="c.brd"></td>
+            <td class="hidden-xs" scope="row" ng-bind-html="c.egl"></td>
+            <td class="hidden-xs" scope="row" ng-bind-html="c.achievement"></td>
+            <!-- <td class="hidden-xs" scope="row" ng-bind-html="c.price"></td> -->
+            <td class="hidden-xs" scope="row" ng-bind-html="c.friends"></td>
+          </tr>
+        </tbody>
+    </table>
+
+    <button type="button" class="btn btn-outline-success" data-toggle="modal" data-target="#anm">Achievement Notes</button>
+<div class="modal fade" id="anm" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Achievement Notes</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <ol>
+          <li>Made a pitch from 55 Yards</li>
+          <li>Made a 40 feet putt</li>
+          <li>Played after rain & were the only ones on the course</li>
+          <li>Made a 50 feet putt</li>
+        </ol>
+      </div>
+      
+    </div>
+  </div>
+</div>
+</div>

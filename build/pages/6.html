@@ -1,0 +1,22 @@
+<h2>Page 6</h2>
+<h2>Legacy / Ongoing Projects</h2>
+<div id="page6">
+
+	<form>
+    <div class="form-group">
+      <div class="input-group">
+        <div class="input-group-addon"><i class="fa fa-search"></i></div>
+        <input type="text" class="form-control" placeholder="Filter" ng-model="searchBar">
+      </div>      
+    </div>
+  </form>
+  
+    <table class="table table-hover">
+        <tbody>
+        	<tr ng-repeat="c in todos | filter:searchBar">
+        		<td scope="row" ng-bind-html="c.date"></td>
+        		<td scope="row" ng-bind-html="c.legacy"></td>
+        	</tr>
+        </tbody>
+    </table>
+</div>

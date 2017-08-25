@@ -1,2 +1,3 @@
-# timur.ca
-timur.ca 2017 redesign
+## timur.ca
+## ver: 7.1.1
+## 2017 re-design

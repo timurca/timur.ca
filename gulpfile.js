@@ -22,9 +22,8 @@ function errorLog(error){
 // Minify JS
 gulp.task('scripts', function (){
  // gulp.src('js/*.js')
-	gulp.src('js/abc.js')
-	gulp.src('js/snow.js')
-	gulp.src('js/abc.js')
+	gulp.src('js/app.js')
+	gulp.src('js/header.js')
 
 		.on('error', errorLog)
 		.pipe(uglify())

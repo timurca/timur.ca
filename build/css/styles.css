@@ -1,0 +1,20 @@
+@import url("_header.css");
+@import url("_pages.css");
+#headerz {
+  z-index: 999; }
+
+#main_angularjs_scope_containt {
+  width: 97%;
+  margin: 0 auto;
+  min-height: 800px; }
+
+.labelbg {
+  font-size: 0.7em;
+  border-radius: 5px;
+  background: #337ab7;
+  color: #fff;
+  padding: 3px 6px; }
+
+@media only screen and (max-width: 576px) {
+  .hidden-xs {
+    display: none; } }

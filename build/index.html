@@ -8,55 +8,70 @@
     <meta charset="UTF-8">
 
 
+
     <link rel="stylesheet" href="css/normalize.css" media="all">
+    <link rel="stylesheet" href="css/styles.css" media="all">
+
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
     <!-- load angular via CDN -->
+    
     <script src="https://code.angularjs.org/1.3.0-rc.1/angular.min.js"></script>
     <script src="https://code.angularjs.org/1.3.0-rc.1/angular-route.min.js"></script>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-sanitize/1.6.6/angular-sanitize.js"></script>
+   
 
-    <link rel="stylesheet" href="css/css.css" media="all">
+
     <script src="js/app.js"></script>
-
-
-
   </head>
 
   <body>
-
-
-
-    <br />
-    <br />
-    <br />
-
+  <header id="headerz">
+    <h1>Timur.ca</h1>
     <nav>
       <ul class="nav nav-tabs" id="myTab" role="tablist">
         <li class="nav-item">
-          <a class="nav-link active" id="home-tab" data-toggle="tab" href="#" role="tab" aria-controls="home" aria-expanded="true">Home</a>
+          <a class="nav-link active tis_link" id="home-tab" data-toggle="tab" href="#" role="tab" aria-controls="home" aria-expanded="true">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" id="profile-tab" data-toggle="tab" href="#/second" role="tab" aria-controls="profile">Page 2</a>
+          <a class="nav-link tis_link" id="profile-tab" data-toggle="tab" href="#/second" role="tab" aria-controls="profile">Travel</a>
         </li>
+       
+       
+
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="" role="button" aria-haspopup="true" aria-expanded="false">
-      Dropdown
-    </a>
+            Work
+          </a>
           <div class="dropdown-menu">
-            <a class="dropdown-item" id="dropdown1-tab" href="#/third" role="tab" data-toggle="tab" aria-controls="dropdown1">Page 3</a>
-            <a class="dropdown-item" id="dropdown2-tab" href="#/fourth" role="tab" data-toggle="tab" aria-controls="dropdown2">Page 4</a>
+            <a class="dropdown-item tis_link" id="dropdown3-tab" href="#/third" role="tab" data-toggle="tab" aria-controls="dropdown1">Resources</a>
+            <a class="dropdown-item tis_link" id="dropdown4-tab" href="#/fourth" role="tab" data-toggle="tab" aria-controls="dropdown2">Practice</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item tis_link" id="dropdown5-tab" href="#/five" role="tab" data-toggle="tab" aria-controls="dropdown1">Freelancing Projects</a>
+            <a class="dropdown-item tis_link" id="dropdown6-tab" href="#/six" role="tab" data-toggle="tab" aria-controls="dropdown2">Legacy / Ongoing Projects</a>
+            <a class="dropdown-item tis_link" id="dropdown7-tab" href="#/seven" role="tab" data-toggle="tab" aria-controls="dropdown2">Full Time</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item tis_link" href="http://www.timur.ca/resume" target="_blank" role="tab" aria-controls="resume">Resume <span aria-hidden="true">&raquo;</span></a>
+          </div>
+        </li>
+
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="" role="button" aria-haspopup="true" aria-expanded="false">
+            Golf
+          </a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item tis_link" id="dropdown8-tab" href="#/eight" role="tab" data-toggle="tab" aria-controls="dropdown1">Scorecards</a>
+            <a class="dropdown-item tis_link" id="dropdown9-tab" href="#/nine" role="tab" data-toggle="tab" aria-controls="dropdown2">Videos</a>
           </div>
         </li>
 
       </ul>
     </nav>
-
-    <div class="data_pg_container">
-
-      <div ng-view>    Home page text</div>
-
+  </header>
+    
+    <div class="data_pg_container" id="main_angularjs_scope_containt">
+      <div ng-view> Home page text</div>
     </div>
-
 
 
 
@@ -69,9 +84,11 @@
 
   </body>
 
+ 
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="js/header.js"></script>
 
 
 

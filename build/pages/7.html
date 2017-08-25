@@ -1,0 +1,22 @@
+<h2>Page 7</h2>
+<h2>Full Time</h2>
+<div id="page7">
+
+	<form>
+    <div class="form-group">
+      <div class="input-group">
+        <div class="input-group-addon"><i class="fa fa-search"></i></div>
+        <input type="text" class="form-control" placeholder="Filter" ng-model="searchBar">
+      </div>      
+    </div>
+  </form>
+  
+    <table class="table table-hover">
+        <tbody>
+        	<tr ng-repeat="c in todos | filter:searchBar">
+        		<td scope="row" ng-bind-html="c.date"></td>
+        		<td scope="row" ng-bind-html="c.fulltime"></td>
+        	</tr>
+        </tbody>
+    </table>
+</div>
