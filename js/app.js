@@ -1,18 +1,11 @@
 var myApp = angular.module('myApp', ['ngRoute', 'ngSanitize']);
 
 myApp.controller('Controller2', function($scope, data, $sce) {
-    console.log(data);
     $scope.todos = data;
-    // $scope.trustedHtml = function(html){
-    //   return $sce.trustAsHtml(html);
-    // }
 });
 
 myApp.controller('Controller3', function($scope, data, $sce) {
   $scope.todos = data;
-   $scope.trustedHtml = function(html){
-      return $sce.trustAsHtml(html);
-    }
 });
 
 myApp.controller('Controller4', function($scope, data, $sce) {
@@ -57,11 +50,11 @@ myApp.config(function ($routeProvider) {
     $routeProvider
     
     .when('/', {
-        templateUrl: 'pages/1.html'
+        templateUrl: 'pages/home.html'
     })
     
-    .when('/second', {
-        templateUrl: 'pages/2.html',
+    .when('/travel', {
+        templateUrl: 'pages/travel.html',
         controller: 'Controller2',
         resolve: {
             data: function(ApiService) {
@@ -70,8 +63,8 @@ myApp.config(function ($routeProvider) {
         }
     })
 
-    .when('/third', {
-        templateUrl: 'pages/3.html',
+    .when('/resources', {
+        templateUrl: 'pages/resources.html',
         controller: 'Controller3',
         resolve: {
             data: function(ApiService) {
@@ -80,8 +73,8 @@ myApp.config(function ($routeProvider) {
         }
     })
 
-    .when('/fourth', {
-        templateUrl: 'pages/4.html',
+    .when('/practice', {
+        templateUrl: 'pages/practice.html',
         controller: 'Controller4',
         resolve: {
             data: function(ApiService) {
@@ -90,8 +83,8 @@ myApp.config(function ($routeProvider) {
         }
     })
 
-    .when('/five', {
-        templateUrl: 'pages/5.html',
+    .when('/freelance', {
+        templateUrl: 'pages/freelance.html',
         controller: 'Controller5',
         resolve: {
             data: function(ApiService) {
@@ -100,8 +93,8 @@ myApp.config(function ($routeProvider) {
         }
     })
 
-    .when('/six', {
-        templateUrl: 'pages/6.html',
+    .when('/legacy', {
+        templateUrl: 'pages/legacy.html',
         controller: 'Controller6',
         resolve: {
             data: function(ApiService) {
@@ -110,8 +103,8 @@ myApp.config(function ($routeProvider) {
         }
     })
 
-    .when('/seven', {
-        templateUrl: 'pages/7.html',
+    .when('/fulltime', {
+        templateUrl: 'pages/fulltime.html',
         controller: 'Controller7',
         resolve: {
             data: function(ApiService) {
@@ -120,8 +113,8 @@ myApp.config(function ($routeProvider) {
         }
     })
 
-    .when('/eight', {
-        templateUrl: 'pages/8.html',
+    .when('/scorecards', {
+        templateUrl: 'pages/scorecards.html',
         controller: 'Controller8',
         resolve: {
             data: function(ApiService) {
@@ -130,8 +123,8 @@ myApp.config(function ($routeProvider) {
         }
     })
 
-    .when('/nine', {
-        templateUrl: 'pages/9.html',
+    .when('/videos', {
+        templateUrl: 'pages/videos.html',
         controller: 'Controller9',
         resolve: {
             data: function(ApiService) {

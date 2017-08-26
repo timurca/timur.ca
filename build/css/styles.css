@@ -18,7 +18,8 @@
 .nav_sc_md {
   float: right;
   position: relative;
-  top: -34px; }
+  top: -34px;
+  right: 1px; }
 
 .text-center {
   text-align: center;
@@ -31,3 +32,18 @@
 ul.icon_list li {
   float: left;
   list-style: none; }
+
+header nav a {
+  padding: 8px; }
+
+h2 {
+  padding: 25px 0 10px 0; }
+
+.animate-enter {
+  -webkit-transition: 1s linear all;
+  /* Chrome */
+  transition: 1s linear all;
+  opacity: 0; }
+
+.animate-enter.animate-enter-active {
+  opacity: 1; }
