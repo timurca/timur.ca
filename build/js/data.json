@@ -558,7 +558,36 @@
       "fulltime": "Webmaster/Front-end Developer at <a href='http://www.acdstudios.com' target='_blank'>ACD Studios</a>"
     }
   ],
-  "page8": [{
+  "page8": [
+    {
+      "date": "2017 - Aug",
+      "club": "Carrickmacross",
+      "cp": "54",
+      "shots": "91",
+      "score": "+37",
+      "bog": "5",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$22",
+      "friends": ""
+    },
+    {
+      "date": "2017 - Aug",
+      "club": "Dentonia",
+      "cp": "54",
+      "shots": "82",
+      "score": "+28",
+      "bog": "6",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$29",
+      "friends": "Tal"
+    },
+    {
       "date": "2017 - Aug",
       "club": "Carrickmacross",
       "cp": "54",
@@ -991,6 +1020,20 @@
       "achievement": "",
       "price": "$19",
       "friends": "Zhenya, Yura, Misha"
+    },
+    {
+      "date": "2007 - Sep",
+      "club": "Dentonia",
+      "cp": "54",
+      "shots": "96",
+      "score": "+42",
+      "bog": "3",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$19",
+      "friends": "Yura"
     },
     {
       "date": "2007 - Aug",
