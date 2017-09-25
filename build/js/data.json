@@ -561,6 +561,34 @@
   "page8": [
     {
       "date": "2017 - Sep",
+      "club": "Scarlett Woods",
+      "cp": "61",
+      "shots": "84",
+      "score": "+23",
+      "bog": "5",
+      "par": "2",
+      "brd": "2",
+      "egl": "",
+      "achievement": "",
+      "price": "$29",
+      "friends": "Tal"
+    },
+    {
+      "date": "2017 - Sep",
+      "club": "Dentonia",
+      "cp": "54",
+      "shots": "78",
+      "score": "+24",
+      "bog": "7",
+      "par": "4",
+      "brd": "",
+      "egl": "",
+      "achievement": "5",
+      "price": "$29",
+      "friends": "Tal"
+    },
+    {
+      "date": "2017 - Sep",
       "club": "Carrickmacross",
       "cp": "54",
       "shots": "80",
