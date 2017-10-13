@@ -24,23 +24,24 @@ ul.ul_stl li.illus { text-align: center; }
   ul.ul_stl li { width: 100%; }
 }
 
+.gr { color: white;  }
+.gr.o1 { width: 180px; height:180px; background:#df0025; border-radius:180px; padding-top: 77px; position: relative; top:10px; left: 40px; }
+.gr.o2 { width: 120px; height:120px; background:#bc312c; border-radius:120px; padding-top: 37px; position: relative; top:-130px; left: 216px; line-height: 18px; }
+.gr.o3 { width: 90px; height:90px; background:#ccc; border-radius:80px; padding-top: 33px; position: relative; top:-191px; left:333px; color: #222; }
 
-.o1 { width: 180px; height:180px; background:#df0025; border-radius:180px; padding-top: 81px; position: relative; top:10px; left: 40px; color: white; }
-.o2 { width: 120px; height:120px; background:#bc312c; border-radius:120px; padding-top: 37px; position: relative; top:-130px; left: 216px; color: white; }
-.o3 { width: 90px; height:90px; background:#ccc; border-radius:80px; padding-top: 33px; position: relative; top:-191px; left:333px; }
+.gr.o4 { width: 133px; height:133px; background:#54a3ec; border-radius:180px; padding-top: 51px; position: relative; top:-23px; left:140px; color: #242670; }
+.gr.o5 { width: 124px; height:124px; background:#222; border-radius:120px; padding-top: 51px; position: relative; top:-44px; left: 45px; }
+.gr.o6 { width: 124px; height:124px; background:#ccc; border-radius:80px; padding-top: 51px; position: relative; top:-168px; left:244px; }
 
-.o4 { width: 133px; height:133px; background:#54a3ec; border-radius:180px; padding-top: 51px; position: relative; top:-23px; left:140px; color: #242670; }
-.o5 { width: 124px; height:124px; background:#222; border-radius:120px; padding-top: 51px; position: relative; top:-44px; left: 45px; color: white; }
-.o6 { width: 124px; height:124px; background:#ccc; border-radius:80px; padding-top: 51px; position: relative; top:-168px; left:244px; }
+.gr.o7 { width: 90px; height:90px; background:#bc312c; border-radius:100px; padding-top: 33px; position: relative; top:15px; left: 100px; }
+.gr.o8 { width: 90px; height:90px; background:#7fcbf3; border-radius:100px; padding-top: 33px; position: relative; top:-83px; left:252px; color: #242670; }
+.gr.o9 { width: 90px; height:90px; background:#3ec128; border-radius:100px; padding-top: 33px; position: relative; top:-93px; left:176px; }
+.gr.o10 { width:90px; height:90px; background:#ff0000; border-radius:100px; padding-top: 33px; position: relative; top:-353px; left:328px; }
 
-.o7 { width: 100px; height:100px; background:#bc312c; border-radius:100px; padding-top: 33px; position: relative; top:15px; left: 10px; color: white; }
-.o8 { width: 90px; height:90px; background:#7fcbf3; border-radius:100px; padding-top: 33px; position: relative; top:-83px; left:162px; color: #242670; }
-.o9 { width: 100px; height:100px; background:#3ec128; border-radius:100px; padding-top: 33px; position: relative; top:-93px; left:86px; color: white; }
-.o10 { width:100px; height:100px; background:#ff0000; border-radius:100px; padding-top: 33px; position: relative; top:-349px; left:246px; color: white; }
-
-.o11 { width: 180px; height:180px; background:#70c920; border-radius:180px; padding-top: 81px; position: relative; top:10px; left: 40px; color: white; }
-.o12 { width: 120px; height:120px; background:#e88433; border-radius:120px; padding-top: 37px; position: relative; top:-93px; left: 165px; color: white; }
-.o13 { width: 90px; height:90px; background:#439815; border-radius:80px; padding-top: 33px; position: relative; top:-309px; left:16px; color: white; }
+.gr.o11 { width: 180px; height:180px; background:#fff; border-radius:180px; padding-top: 81px; position: relative; top:10px; left: 40px; border: 1px solid #999; color: #999; }
+.gr.o12 { width: 90px; height:90px; background:#b4fd17; border-radius:120px; padding-top: 30px; position: relative; top:-93px; left: 165px; }
+.gr.o13 { width: 90px; height:90px; background:#DDD; border-radius:80px; padding-top: 33px; position: relative; top:-293px; left:116px; }
+.gr.o14 { width: 90px; height:90px; background:#e88433; border-radius:80px; padding-top: 33px; position: relative; top:-309px; left:16px; }
 
 /*ul.ul_stl li:nth-child(1) { background:#df0025; }
   ul.ul_stl li:nth-child(2) { background:#bc312c; }*/
