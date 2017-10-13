@@ -28,8 +28,20 @@
 #page8 .table td:nth-child(3), #page8 .table td:nth-child(4), #page8 .table td:nth-child(5), #page8 .table td:nth-child(6), #page8 .table td:nth-child(7), #page8 .table td:nth-child(8), #page8 .table td:nth-child(9), #page8 .table td:nth-child(10), #page8 .table td:nth-child(11) {
   text-align: center; }
 
+#page8 .table th:nth-child(3), #page8 .table th:nth-child(4), #page8 .table th:nth-child(5), #page8 .table th:nth-child(6), #page8 .table th:nth-child(7), #page8 .table th:nth-child(8), #page8 .table th:nth-child(9), #page8 .table th:nth-child(10), #page8 .table th:nth-child(11) {
+  text-align: center; }  
+
 #page9 .table td:nth-child(1) {
   width: 150px; }
 
 #page9 .table td:nth-child(2) {
   width: 220px; }
+
+
+.labelbg {
+    font-size: 0.7em;
+    border-radius: 5px;
+    background: #337ab7;
+    color: #fff;
+    padding: 3px 6px;
+}

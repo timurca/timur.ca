@@ -1,47 +1,28 @@
 @import '_header';
 @import '_pages';
+@import '_home';
 
-#headerz {
-  z-index: 999; }
+
+.text-center { text-align: center; margin: 0 auto; }
 
 #main_angularjs_scope_containt {
   width: 97%;
   margin: 0 auto; }
 
-
-.labelbg {
-    font-size: 0.7em;
-    border-radius: 5px;
-    background: #337ab7;
-    color: #fff;
-    padding: 3px 6px;
-}
-
-.nav_sc_md { float: right; position: relative; top:-34px; right: 1px; }
-
-.text-center { text-align: center; margin: 0 auto; }
-
 @media only screen and (max-width: 576px) {
   .hidden-xs { display: none; } 
 }
 
-
-ul.icon_list li { float: left; list-style: none; }
-
-header nav a { padding: 8px; }
-
-
-h2 { padding: 25px 0 10px 0; }
+footer .container { clear:both; }
 
 
 
-
-.animate-enter {
-  -webkit-transition: 1s linear all; /* Chrome */
+/*.animate-enter {
+  -webkit-transition: 1s linear all;
   transition: 1s linear all;
   opacity: 0;
 }
  
 .animate-enter.animate-enter-active {
   opacity: 1;
-}
+}*/

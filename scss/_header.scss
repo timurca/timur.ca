@@ -89,5 +89,15 @@ body.sticky-header header h1 {
   transform: scale(0, 0); }
 
 
+.nav_sc_md { float: right; position: relative; top:-34px; right: 1px; }
+#headerz { z-index: 999; }
+
 
 h1 img.timur { width: 48px; border: 2.5px solid #EEE; border-radius:30px; position: relative; top:-6px; right: 6px; }
+
+
+header nav a { padding: 8px; }
+
+h2 { padding: 25px 0 10px 0; }
+
+ul.icon_list li { float: left; list-style: none; }
