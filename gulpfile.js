@@ -23,6 +23,7 @@ function errorLog(error){
 gulp.task('scripts', function (){
  // gulp.src('js/*.js')
 	gulp.src('js/app.js')
+  gulp.src('js/hm_pg.js')
 	gulp.src('js/header.js')
 
 		.on('error', errorLog)

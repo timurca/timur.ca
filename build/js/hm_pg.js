@@ -88,5 +88,11 @@ function createPieCharts() {
   createPie('.pieID--operations' );
 }
 
+$(function() {
+	setTimeout(function(){ createPieCharts(); }, 500);
+    
+});
 
-createPieCharts();
+$("#home-tab").click(function() {
+    setTimeout(function(){ createPieCharts(); }, 100);
+});

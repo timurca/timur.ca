@@ -88,4 +88,6 @@ function createPieCharts() {
   createPie('.pieID--operations' );
 }
 
-createPieCharts();
+$(function() {
+    createPieCharts();
+});
