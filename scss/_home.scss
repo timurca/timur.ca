@@ -122,3 +122,6 @@ ul.pie-chart__legend.dnd li span { display: none; }
 
 
 .movedown { margin-top: 32px; }
+@media (max-width: 776px) {
+.intro { padding-left:3px; padding-right:3px; }
+}
