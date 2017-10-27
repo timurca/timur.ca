@@ -1,5 +1,5 @@
 body {
-  padding-top: 130px;
+  padding-top: 124px;
   -moz-transition: padding-top 0.5s ease;
   -o-transition: padding-top 0.5s ease;
   -webkit-transition: padding-top 0.5s ease;
@@ -22,8 +22,10 @@ header {
 
 header h1 {
   font-size: 42px;
+  position: relative;
+  top:-9px;
   color: #fff;
-  line-height: 36px;
+  line-height: 1px;
   text-transform: uppercase;
   font-weight: 100;
   -moz-transition: all 0.3s ease;
@@ -68,8 +70,10 @@ section {
 
 
 .scroll-line{
-  height: 20px;
-  opacity:0.4;
+  position: relative;
+  top: 4px;
+  height: 28px;
+  opacity:0.3;
   background: white;
   width: 0%;
 }
@@ -80,7 +84,7 @@ body.sticky-header {
   padding-top: 100px; }
 
 body.sticky-header header {
-  height: 52px;
+  height: 37px;
   background-color: rgba(52, 152, 219, 0.9); }
 
 body.sticky-header header h1 {
@@ -94,16 +98,16 @@ body.sticky-header header h1 {
 #headerz { z-index: 999; }
 
 
-h1 img.timur { width: 48px; border: 2.5px solid #EEE; border-radius:30px; position: relative; top:-6px; right: 6px; }
+h1 img.timur { width: 44px; border: 2px solid #FFF; border-radius:30px; position: relative; top:-4px; right: 3px; opacity: 0.9; -webkit-box-shadow: 2px 7px 29px 0px rgba(0,0,0,0.68);
+-moz-box-shadow: 2px 7px 29px 0px rgba(0,0,0,0.68);
+box-shadow: 2px 7px 29px 0px rgba(0,0,0,0.68); }
 
 
 header nav a { padding: 8px; }
 
-h2 { padding: 25px 0 10px 0; }
-
 h1 a { color: white; cursor:pointer; }
 h1 a:hover { color: lemonchiffon; text-decoration: none; 
-   img.timur {border: 2.5px solid lemonchiffon; }
+   img.timur {border: 2.3px solid lemonchiffon; }
 }
 
 ul.icon_list li { float: left; list-style: none; display:none; }
@@ -116,7 +120,7 @@ ul.icon_list li { float: left; list-style: none; display:none; }
 
 
 
-
+/*
 @-webkit-keyframes tada {
   0% {-webkit-transform: scale(1);} 
   10%, 20% {-webkit-transform: scale(0.9) rotate(-3deg);}
@@ -180,4 +184,4 @@ ul.icon_list li { float: left; list-style: none; display:none; }
   animation-delay: 2s;
   animation-iteration-count: 1;
   z-index: 1
-}
+}*/

@@ -2,6 +2,9 @@
 @import '_pages';
 @import '_home';
 
+body { font-weight: 100 !important; }
+h2 { font-weight: 300 !important; }
+p { font-weight: 300; }
 
 .text-center { text-align: center; margin: 0 auto; }
 
@@ -16,7 +19,9 @@
 footer .container { clear:both; color:#AAA; }
 
 
-
+.table-bordered td {
+    border: 11px solid #e9ecef !important;
+}
 
 /*.animate-enter {
   -webkit-transition: 1s linear all;
