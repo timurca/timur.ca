@@ -57,7 +57,9 @@ $(function(){
 
   
   // on logo click refresh page so that tab1 active turns on
-  $('.logo').click(function(){ window.location.href = "/"; return false; });
+  // $('.logo').click(function(){ document.getElementById('#home-tab').click();
+  //   return false; });
   // document.getElementById('#home-tab').click();
+  //window.location.href = "/"; 
   
 });//ready func.
