@@ -96,6 +96,3 @@ $(function() {
 $("#home-tab").click(function() {
     setTimeout(function(){ createPieCharts(); }, 100);
 });
-$(".logo").click(function() {
-    setTimeout(function(){ createPieCharts(); }, 100);
-});

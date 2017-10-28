@@ -70,8 +70,8 @@ section {
 
 .scroll-line {
   position: relative;
-  top: 4px;
-  height: 28px;
+  top: 6px;
+  height: 30px;
   opacity: 0.3;
   background: white;
   width: 0%; }
@@ -130,71 +130,11 @@ ul.icon_list li {
   list-style: none;
   display: none; }
 
-/*
-@-webkit-keyframes tada {
-  0% {-webkit-transform: scale(1);} 
-  10%, 20% {-webkit-transform: scale(0.9) rotate(-3deg);}
-  30%, 50%, 70%, 90% {-webkit-transform: scale(1.1) rotate(3deg);}
-  40%, 60%, 80% {-webkit-transform: scale(1.1) rotate(-3deg);}
-  100% {-webkit-transform: scale(1) rotate(0);}
-}
+/*1 darkmagenta teal
+2 purple orange
 
-@-moz-keyframes tada {
-  0% {-moz-transform: scale(1);}  
-  10%, 20% {-moz-transform: scale(0.9) rotate(-3deg);}
-  30%, 50%, 70%, 90% {-moz-transform: scale(1.1) rotate(3deg);}
-  40%, 60%, 80% {-moz-transform: scale(1.1) rotate(-3deg);}
-  100% {-moz-transform: scale(1) rotate(0);}
-}
-
-@-ms-keyframes tada {
-  0% {-ms-transform: scale(1);} 
-  10%, 20% {-ms-transform: scale(0.9) rotate(-3deg);}
-  30%, 50%, 70%, 90% {-ms-transform: scale(1.1) rotate(3deg);}
-  40%, 60%, 80% {-ms-transform: scale(1.1) rotate(-3deg);}
-  100% {-ms-transform: scale(1) rotate(0);}
-}
-
-@-o-keyframes tada {
-  0% {-o-transform: scale(1);}  
-  10%, 20% {-o-transform: scale(0.9) rotate(-3deg);}
-  30%, 50%, 70%, 90% {-o-transform: scale(1.1) rotate(3deg);}
-  40%, 60%, 80% {-o-transform: scale(1.1) rotate(-3deg);}
-  100% {-o-transform: scale(1) rotate(0);}
-}
-
-@keyframes tada {
-  0% {transform: scale(1);} 
-  10%, 20% {transform: scale(0.9) rotate(-3deg);}
-  30%, 50%, 70%, 90% {transform: scale(1.1) rotate(3deg);}
-  40%, 60%, 80% {transform: scale(1.1) rotate(-3deg);}
-  100% {transform: scale(1) rotate(0);}
-}
-
-.tada {
-  -webkit-animation-name: tada;
-  -moz-animation-name: tada;
-  -ms-animation-name: tada;
-  -o-animation-name: tada;
-  animation-name: tada;
-  
-  -webkit-animation-duration: 3s;
-  -webkit-animation-delay: 2s;
-  -webkit-animation-iteration-count: 1;
-  -moz-animation-duration: 3s;
-  -moz-animation-delay: 2s;
-  -moz-animation-iteration-count: 1;
-  -ms-animation-duration: 3s;
-  -ms-animation-delay: 2s;
-  -ms-animation-iteration-count: 1;
-  -o-animation-duration: 3s;
-  -o-animation-delay: 2s;
-  -o-animation-iteration-count: 1;
-  animation-duration: 3s;
-  animation-delay: 2s;
-  animation-iteration-count: 1;
-  z-index: 1
-}*/
+8 golf table cadetblue burlywood
+9 darkolivegreen teal*/
 #page3 .table td:nth-child(1) {
   width: 150px; }
 
@@ -408,13 +348,3 @@ footer .container {
 
 .table-bordered td {
   border: 11px solid #e9ecef !important; }
-
-/*.animate-enter {
-  -webkit-transition: 1s linear all;
-  transition: 1s linear all;
-  opacity: 0;
-}
- 
-.animate-enter.animate-enter-active {
-  opacity: 1;
-}*/

@@ -37,28 +37,27 @@ $(function(){
   $(function() {
     setTimeout(function(){ 
         $('.i1').show();
-     }, 1500);
-    
-  });
-
-  $(function() {
-    setTimeout(function(){ 
-        $('.i2').show();
      }, 2500);
     
   });
 
   $(function() {
     setTimeout(function(){ 
-        $('.i3').show();
+        $('.i2').show();
      }, 3500);
     
   });
 
+  $(function() {
+    setTimeout(function(){ 
+        $('.i3').show();
+     }, 4500);
+    
+  });
+
   
-
- 
- 
-
+  // on logo click refresh page so that tab1 active turns on
+  $('.logo').click(function(){ window.location.href = "/"; return false; });
+  // document.getElementById('#home-tab').click();
   
 });//ready func.
