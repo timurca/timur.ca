@@ -1,15 +1,18 @@
 [{
   "page2": [{
+      "date": "2017 - Oct",
+      "place": "New York, USA"
+    },{
       "date": "2017 - May",
       "place": "Costa Rica"
     },
     {
       "date": "2017 - Feb",
-      "place": "San Francisco, US"
+      "place": "San Francisco, USA"
     },
     {
       "date": "2016 - Nov",
-      "place": "Vermont, US"
+      "place": "Vermont, USA"
     },
     {
       "date": "2016 - Oct",
@@ -17,7 +20,7 @@
     },
     {
       "date": "2016 - Apr",
-      "place": "Indianapolis, US"
+      "place": "Indianapolis, USA"
     },
     {
       "date": "2016 - Apr",
@@ -25,7 +28,7 @@
     },
     {
       "date": "2015 - Nov",
-      "place": "New Orleans, US"
+      "place": "New Orleans, USA"
     },
     {
       "date": "2015 - Jul",
@@ -33,7 +36,7 @@
     },
     {
       "date": "2014 - Dec",
-      "place": "Detroit, US"
+      "place": "Detroit, USA"
     },
     {
       "date": "2014 - Sep",
@@ -57,19 +60,19 @@
     },
     {
       "date": "2013 - Jan",
-      "place": "Lake Placid, US"
+      "place": "Lake Placid, USA"
     },
     {
       "date": "2012 - Aug",
-      "place": "San Francisco, US"
+      "place": "San Francisco, USA"
     },
     {
       "date": "2012 - Aug",
-      "place": "Portland, US"
+      "place": "Portland, USA"
     },
     {
       "date": "2012 - Aug",
-      "place": "Seattle, US"
+      "place": "Seattle, USA"
     },
     {
       "date": "2012 - Aug",
@@ -141,15 +144,15 @@
     },
     {
       "date": "2005 - May",
-      "place": "Los Angeles, US"
+      "place": "Los Angeles, USA"
     },
     {
       "date": "2005 - May",
-      "place": "Las Vegas, US"
+      "place": "Las Vegas, USA"
     },
     {
       "date": "2003 - Jun",
-      "place": "Miami, US"
+      "place": "Miami, USA"
     },
     {
       "date": "2002 - Aug",
@@ -157,15 +160,15 @@
     },
     {
       "date": "2000 - Jul",
-      "place": "Philadelphia, US"
+      "place": "Philadelphia, USA"
     },
     {
       "date": "2000 - Jul",
-      "place": "Atlantic City, US"
+      "place": "Atlantic City, USA"
     },
     {
       "date": "2000 - Jul",
-      "place": "New York, US"
+      "place": "New York, USA"
     },
     {
       "date": "1999 - Jun",

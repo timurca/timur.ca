@@ -1,13 +1,13 @@
 $(function(){
   
   //random header color
-  $(".tis_link").click(function() {
+  // $(".tis_link").click(function() {
   
-  var back = ["linear-gradient(135deg, purple, orange)","linear-gradient(135deg, green, orange)","linear-gradient(135deg, red, purple)","linear-gradient(135deg, Tomato, PaleVioletRed)","linear-gradient(135deg, darkmagenta, teal)","linear-gradient(135deg, CadetBlue, BurlyWood)","linear-gradient(135deg, darkolivegreen, teal)"];
-     var rand = back[Math.floor(Math.random() * back.length)];
+  // var back = ["linear-gradient(135deg, purple, orange)","linear-gradient(135deg, green, orange)","linear-gradient(135deg, red, purple)","linear-gradient(135deg, Tomato, PaleVioletRed)","linear-gradient(135deg, darkmagenta, teal)","linear-gradient(135deg, CadetBlue, BurlyWood)","linear-gradient(135deg, darkolivegreen, teal)"];
+  //    var rand = back[Math.floor(Math.random() * back.length)];
       
-   $("header").css("background", rand);
-  });
+  //  $("header").css("background", rand);
+  // });
 
 
 
