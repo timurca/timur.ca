@@ -460,8 +460,14 @@
     }
   ],
   "page6": [{
+      "date": "2017 - Oct",
+      "legacy": "<a href='http://www.timur.ca' target='_blank'>timur.ca</a> - Redesigned my personal website. (ver. 7)"
+    },{
+      "date": "2016 - Jan",
+      "legacy": "<a href='http://www.timur.ca/resume' target='_blank'>timur.ca/resume</a> - Redesigned my online resume. (ver. 4)"
+    },{
       "date": "2013 - May",
-      "legacy": "<a href='http://www.ballwinners.com/seasons/baseball/2013/' target='_blank'>ballwinners.com/baseball</a> - Added MLB to the mix as well."
+      "legacy": "<a href='http://www.ballwinners.com/seasons/baseball/2013/' target='_blank'>ballwinners.com/baseball</a> - Then lastly for MLB."
     },
     {
       "date": "2013 - Mar",
