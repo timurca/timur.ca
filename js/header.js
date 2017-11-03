@@ -34,8 +34,7 @@ $(function(){
   });
 
   //show the icons
-  
-    setTimeout(function(){ 
+   setTimeout(function(){ 
         $('.i1').show();
      }, 2500);
     
