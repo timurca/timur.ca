@@ -97,7 +97,9 @@ body.sticky-header header h1 {
 
 
 .nav_sc_md { float: right; position: relative; top:-34px; right: 1px; }
+header nav a { padding: 10px; }
 header nav a:hover { box-shadow: none; }
+header nav ul.icon_list li a:hover { border: 0.5px solid white; }
 /* ---------------------------------------- */
 
 h1 img.timur { width: 44px; border: 2px solid #FFF; border-radius:30px; position: relative; top:-1px; right:-2px; opacity: 0.9; line-height: 1px; 
@@ -106,7 +108,7 @@ h1 img.timur { width: 44px; border: 2px solid #FFF; border-radius:30px; position
 box-shadow: 2px 7px 29px 0px rgba(0,0,0,0.68); }
 
 
-header nav a { padding: 8px; }
+
 
 /*h1 a { color: white; }
 h1 a:hover { color: lemonchiffon; text-decoration: none; 

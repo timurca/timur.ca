@@ -628,7 +628,7 @@
       "par": "2",
       "brd": "2",
       "egl": "",
-      "achievement": "<a type='button' class='btn btn-outline-success' data-toggle='modal' data-target='#anm'>5</a>",
+      "achievement": "<a type='button' class='btn btn-outline-success notes_bt' data-toggle='modal' data-target='#anm'>5</a>",
       "price": "$29",
       "friends": "Tal"
     },
@@ -796,7 +796,7 @@
       "par": "",
       "brd": "",
       "egl": "",
-      "achievement": "<a type='button' class='btn btn-outline-success' data-toggle='modal' data-target='#anm'>4</a>",
+      "achievement": "<a type='button' class='btn btn-outline-success notes_bt' data-toggle='modal' data-target='#anm'>4</a>",
       "price": "$64",
       "friends": "Tal"
     },
@@ -838,7 +838,7 @@
       "par": "",
       "brd": "",
       "egl": "",
-      "achievement": "<a type='button' class='btn btn-outline-success' data-toggle='modal' data-target='#anm'>3</a>",
+      "achievement": "<a type='button' class='btn btn-outline-success notes_bt' data-toggle='modal' data-target='#anm'>3</a>",
       "price": "$0",
       "friends": "Tal"
     },
@@ -908,7 +908,7 @@
       "par": "2",
       "brd": "",
       "egl": "",
-      "achievement": "<a type='button' class='btn btn-outline-success' data-toggle='modal' data-target='#anm'>2</a>",
+      "achievement": "<a type='button' class='btn btn-outline-success notes_bt' data-toggle='modal' data-target='#anm'>2</a>",
       "price": "$50",
       "friends": "Andrei"
     },
@@ -936,7 +936,7 @@
       "par": "",
       "brd": "",
       "egl": "1",
-      "achievement": "<a type='button' class='btn btn-outline-success' data-toggle='modal' data-target='#anm'>1</a>",
+      "achievement": "<a type='button' class='btn btn-outline-success notes_bt' data-toggle='modal' data-target='#anm'>1</a>",
       "price": "$50",
       "friends": "Andrei, Misha"
     },
