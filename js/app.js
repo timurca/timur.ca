@@ -37,7 +37,7 @@ myApp.service('ApiService', function($http) {
   var api = {};
 
   api.getDataByPage = function(index) {
-    return $http.get('js/data.json').then(function(res) {
+    return $http.get('data/data.json').then(function(res) {
         return res.data[0]['page' + index];
     });
   }

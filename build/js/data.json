@@ -269,12 +269,12 @@
     {
       "date": "2013 - Jul",
       "label": "css",
-      "item": "Logo Twerking <a href='http://www.timur.ca/june/html5/tada.html' target='_blank'>Ta-da</a>"
+      "item": "Logo Twerking <a href='http://www.timur.ca/ZZZ/june/html5/tada.html' target='_blank'>Tada</a>"
     },
     {
       "date": "2013 - Jun",
       "label": "plugin",
-      "item": "Search Plugin: <a href='http://www.timur.ca/june/js101/json/V3.json/' target='_blank'>table</a>, <a href='http://www.timur.ca/june/js101/json/V3.json/li.html' target='_blank'>li List</a>"
+      "item": "Search Plugin: <a href='http://www.timur.ca/ZZZ/june/js101/json/V3.json/' target='_blank'>table</a>, <a href='http://www.timur.ca/ZZZ/june/js101/json/V3.json/li.html' target='_blank'>li List</a>"
     },
     {
       "date": "2013 - Jun",
@@ -284,7 +284,7 @@
     {
       "date": "2013 - May",
       "label": "json",
-      "item": "JSON Practice: <a href='http://www.timur.ca/web/june/js101/json/' target='_blank'>link</a>"
+      "item": "JSON Practice: <a href='http://www.timur.ca/ZZZ/web/june/js101/json/' target='_blank'>link</a>"
     },
     {
       "date": "2013 - May",
@@ -324,12 +324,12 @@
     {
       "date": "2012 - Jul",
       "label": "jquery",
-      "item": "jQuery Templates: <a href='http://www.timur.ca/june/js101/templates/templates-01.html' target='_blank'>eg 1: not a template</a>, <a href='http://www.timur.ca/june/js101/templates/templates-02.html' target='_blank'>eg 2: template</a>, <a href='http://www.timur.ca/june/js101/templates/templates-03.html' target='_blank'>eg 3: template /w auto-iteration</a>, <a href='http://www.timur.ca/june/js101/templates/templates-04.html' target='_blank'>eg 4: template inside the HTML</a>"
+      "item": "jQuery Templates: <a href='http://www.timur.ca/ZZZ/june/js101/templates/templates-01.html' target='_blank'>eg 1: not a template</a>, <a href='http://www.timur.ca/ZZZ/june/js101/templates/templates-02.html' target='_blank'>eg 2: template</a>, <a href='http://www.timur.ca/ZZZ/june/js101/templates/templates-03.html' target='_blank'>eg 3: template /w auto-iteration</a>, <a href='http://www.timur.ca/ZZZ/june/js101/templates/templates-04.html' target='_blank'>eg 4: template inside the HTML</a>"
     },
     {
       "date": "2012 - Jul",
       "label": "jquery",
-      "item": "Web Storage API: <a href='http://www.timur.ca/june/html5/web-storage-api.html' target='_blank'>Single</a>, <a href='http://www.timur.ca/june/html5/web-storage-api-2.html' target='_blank'>Multiple</a>, <a href='http://www.timur.ca/june/html5/web-storage-api-3.html' target='_blank'>jQuery ver</a>"
+      "item": "Web Storage API: <a href='http://www.timur.ca/ZZZ/june/html5/web-storage-api.html' target='_blank'>Single</a>, <a href='http://www.timur.ca/ZZZ/june/html5/web-storage-api-2.html' target='_blank'>Multiple</a>, <a href='http://www.timur.ca/ZZZ/june/html5/web-storage-api-3.html' target='_blank'>jQuery ver</a>"
     },
     {
       "date": "2012 - Jul",
@@ -339,32 +339,32 @@
     {
       "date": "2012 - Jul",
       "label": "css",
-      "item": "Transformations types: <a href='http://www.timur.ca/june/html5/transformation.html' target='_blank'>Samples</a>"
+      "item": "Transformations types: <a href='http://www.timur.ca/ZZZ/june/html5/transformation.html' target='_blank'>Samples</a>"
     },
     {
       "date": "2012 - Jul",
       "label": "js",
-      "item": "js functions: <a href='http://www.timur.ca/june/js101/functions.html' target='_blank'>custom functions, /w params, /w multiple params, /w return, annonymous, self executed</a>"
+      "item": "js functions: <a href='http://www.timur.ca/ZZZ/june/js101/functions.html' target='_blank'>custom functions, /w params, /w multiple params, /w return, annonymous, self executed</a>"
     },
     {
       "date": "2012 - Jun",
       "label": "jquery",
-      "item": "Toggle a function <a href='http://www.timur.ca/june/js101/toggle-a-function.html' target='_blank'>eg</a>"
+      "item": "Toggle a function <a href='http://www.timur.ca/ZZZ/june/js101/toggle-a-function.html' target='_blank'>eg</a>"
     },
     {
       "date": "2012 - Jun",
       "label": "css,jquery",
-      "item": "Bear: Moving a character <a href='http://www.timur.ca/june/js101/bear/v1.html' target='_blank'>v1</a>, <a href='http://www.timur.ca/june/js101/bear/v2.html' target='_blank'>Beta</a>"
+      "item": "Bear: Moving a character <a href='http://www.timur.ca/ZZZ/june/js101/bear/v1.html' target='_blank'>v1</a>, <a href='http://www.timur.ca/ZZZ/june/js101/bear/v2.html' target='_blank'>Beta</a>"
     },
     {
       "date": "2012 - Jun",
       "label": "js",
-      "item": "js fundamentals: <a href='http://www.timur.ca/june/js101/arrays-objects-loops.html' target='_blank'>Loops, Arrays, Objects</a>"
+      "item": "js fundamentals: <a href='http://www.timur.ca/ZZZ/june/js101/arrays-objects-loops.html' target='_blank'>Loops, Arrays, Objects</a>"
     },
     {
       "date": "2012 - Jun",
       "label": "js",
-      "item": "Paul Irish: <a href='http://www.timur.ca/june/js101/setTimeout.html' target='_blank'>How to correctly execute a function via loop</a>"
+      "item": "Paul Irish: <a href='http://www.timur.ca/ZZZ/june/js101/setTimeout.html' target='_blank'>How to correctly execute a function via loop</a>"
     },
     {
       "date": "2012 - May",
@@ -399,7 +399,7 @@
     {
       "date": "2011 - Dec",
       "label": "css,html",
-      "item": "Layout: <a href='http://www.timur.ca/june/html5/flexible-box-model.html' target='_blank'>Flexible Box Model</a>"
+      "item": "Layout: <a href='http://www.timur.ca/ZZZ/june/html5/flexible-box-model.html' target='_blank'>Flexible Box Model</a>"
     }
   ],
   "page5": [{

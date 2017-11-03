@@ -34,26 +34,25 @@ $(function(){
   });
 
   //show the icons
-  $(function() {
+  
     setTimeout(function(){ 
         $('.i1').show();
      }, 2500);
     
-  });
 
-  $(function() {
+
     setTimeout(function(){ 
         $('.i2').show();
      }, 3500);
     
-  });
 
-  $(function() {
+
+  
     setTimeout(function(){ 
         $('.i3').show();
      }, 4500);
     
-  });
+  
 
   
   // on logo click refresh page so that tab1 active turns on
