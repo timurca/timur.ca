@@ -32,6 +32,10 @@ myApp.controller('Controller9', function($scope, data, $sce) {
     $scope.todos = data;
 });
 
+myApp.controller('Controller10', function($scope, data, $sce) {
+    $scope.todos = data;
+});
+
 
 myApp.service('ApiService', function($http) {
   var api = {};
@@ -126,6 +130,16 @@ myApp.config(function ($routeProvider) {
     .when('/videos', {
         templateUrl: 'pages/videos.html',
         controller: 'Controller9',
+        resolve: {
+            data: function(ApiService) {
+                return ApiService.getDataByPage(9);
+            }
+        }
+    })
+
+    .when('/now', {
+        templateUrl: 'pages/now.html',
+        controller: 'Controller10',
         resolve: {
             data: function(ApiService) {
                 return ApiService.getDataByPage(9);
