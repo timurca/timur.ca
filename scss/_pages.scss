@@ -45,9 +45,37 @@
 
 
 .labelbg {
-    font-size: 0.7em;
-    border-radius: 5px;
-    background: #337ab7;
-    color: #fff;
+    font-size: 0.5em;
+    border-radius: 8px;
+    color: #AAA;
     padding: 3px 6px;
+    border: 1px solid #DDD;
+    text-transform:uppercase; 
+}
+
+
+#page6 {
+  tr:nth-child(2) span.labelbg,
+  tr:nth-child(11) span.labelbg,
+  tr:nth-child(15) span.labelbg
+    { background: #FFF; color: #000; }
+
+  tr:nth-child(3) span.labelbg,
+  tr:nth-child(4) span.labelbg,
+  tr:nth-child(5) span.labelbg,
+  tr:nth-child(8) span.labelbg,
+  tr:nth-child(9) span.labelbg,
+  tr:nth-child(12) span.labelbg,
+  tr:nth-child(19) span.labelbg,
+  tr:nth-child(20) span.labelbg,
+  tr:nth-child(23) span.labelbg,
+  tr:nth-child(24) span.labelbg
+    { background: #DDD; color: #555; }
+
+  tr:nth-child(13) span.labelbg,
+  tr:nth-child(14) span.labelbg,
+  tr:nth-child(16) span.labelbg,
+  tr:nth-child(18) span.labelbg,
+  tr:nth-child(22) span.labelbg
+    { background: #EEE; color: #AAA; }
 }

@@ -461,105 +461,131 @@
   ],
   "page6": [{
       "date": "2017 - Oct",
+      "label": "timur.ca",
       "legacy": "Re-designed timur.ca <em>(ver. 7)</em>"
     },{
       "date": "2016 - Jan",
-      "legacy": "<a href='http://www.timur.ca/resume' target='_blank'>timur.ca/resume</a> - Re-designed my online resume. <em>(ver. 3)</em>"
+      "label": "resume",
+      "legacy": "<a href='http://www.timur.ca/resume' target='_blank'>timur.ca/resume</a> - Re-designed my online resume. <em>(ver. 3)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/resume-v3.png' target='_blank'>exhibit</a>"
     },{
       "date": "2013 - May",
+      "label": "project",
       "legacy": "<a href='http://www.ballwinners.com/seasons/baseball/2013/' target='_blank'>ballwinners.com/baseball</a> - Then lastly for MLB."
     },
     {
       "date": "2013 - Mar",
+      "label": "project",
       "legacy": "<a href='http://www.ballwinners.com/seasons/hockey/2013/' target='_blank'>ballwinners.com/hockey</a> - A yead after launching ballwinners for NBA, I decided to do the same for the NHL."
     },
     {
       "date": "2012 - Oct",
+      "label": "project",
       "legacy": "<a href='http://www.ballwinners.com/seasons/nba/2012-13/' target='_blank'>ballwinners.com</a> - This was my most popular project supporting hundreds of users. It was a NBA reality league where users could track & get ranked based on their NBA game pick predictions."
     },
     {
       "date": "2012 - Aug",
-      "legacy": "Re-designed timur.ca <em>(ver. 6)</em>"
+      "label": "timur.ca",
+      "legacy": "Re-designed timur.ca <em>(ver. 6)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v6.png' target='_blank'>exhibit</a>"
     },
     {
       "date": "2012 - Jan",
-      "legacy": "Re-designed timur.ca <em>(ver. 5)</em>"
+      "label": "timur.ca",
+      "legacy": "Re-designed timur.ca <em>(ver. 5)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v5.png' target='_blank'>exhibit</a>"
     },
     {
       "date": "2011 - Nov",
-      "legacy": "<a href='http://web.archive.org/web/20120419071447/http://www.dmozin.com/' target='_blank'>dmozin.com</a> - I was learning the basics of <b>php</b> and hence this project."
+      "label": "project",
+      "legacy": "<a href='http://web.archive.org/web/20120419071447/http://www.dmozin.com/' target='_blank'>dmozin.com</a> - I was learning the basics of php and hence this project."
     },
     {
       "date": "2011 - Jun",
-      "legacy": "<a href='http://www.webforward.ca/MyProjects/webforward/prototypes/therealtors/web/profile.shtml' target='_blank'>therealtors.net</a> - The <b>real estate</b> field was always appealing to me and after buying this domain, I went to work and built a social media portal for real estate professionals but I was advised to shut it down.. If only that I knew that &#8220;realtor&#8221; was a trademark word; would've saved a lot of effort."
+      "label": "project",
+      "legacy": "<a href='http://www.webforward.ca/MyProjects/webforward/prototypes/therealtors/web/profile.shtml' target='_blank'>therealtors.net</a> - The real estate field was always appealing to me and after buying this domain, I went to work and built a social media portal for real estate professionals but I was advised to shut it down.. If only that I knew that &#8220;realtor&#8221; was a trademark word; would've saved a lot of effort."
     },
     {
       "date": "2011 - Feb",
-      "legacy": "Re-designed timur.ca <em>(ver. 4)</em>"
+      "label": "timur.ca",
+      "legacy": "Re-designed timur.ca <em>(ver. 4)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v4.png' target='_blank'>exhibit</a>"
     },
     {
       "date": "2009 - Sep",
-      "legacy": "Re-designed my online resume. <em>(ver. 2)</em>"
+      "label": "resume",
+      "legacy": "Re-designed my online resume. <em>(ver. 2)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/resume-v2.png' target='_blank'>exhibit</a>"
     },
     {
       "date": "2008 - Aug",
-      "legacy": "<a href='http://www.anews.ca' target='_blank'>anews.ca</a> - I was messing around with <b>wordpress</b> and eventually turned this domain into a blog."
+      "label": "project",
+      "legacy": "<a href='http://www.anews.ca' target='_blank'>anews.ca</a> - I was messing around with wordpress and eventually turned this domain into a blog."
     },
     {
       "date": "2008 - Jun",
+      "label": "freelance",
       "legacy": "<a href='http://www.webforward.ca' target='_blank'>webforward.ca</a> - &#8220;take 5&#8221; was a keeper as I finally found a domain name i liked for my freelancing site."
     },
     {
       "date": "2008 - Feb",
+      "label": "freelance",
       "legacy": "<a href='http://tochakov.powweb.com/zzzmisc/xxx-offline-sites/wxx_web-advisors/web/index.shtml' target='_blank'>web-advisors.ca</a> - &#8220;take 4&#8221; - In this episode I partnered with an ex-colleague and tried to play the &#8220;web design studio game&#8221;. (that one crushed in a hurry)"
     },
     {
       "date": "2007 - Dec",
-      "legacy": "<a href='/resume/' target='_blank'>timur.ca/resume</a> - Created an online version of my resume. <em>(ver. 1)</em>"
+      "label": "resume",
+      "legacy": "<a href='/resume/' target='_blank'>timur.ca/resume</a> - Created an online version of my resume. <em>(ver. 1)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/resume-v1.png' target='_blank'>exhibit</a>"
     },
     {
       "date": "2007 - Aug",
+      "label": "freelance",
       "legacy": "<a href='http://tochakov.powweb.com/zzzmisc/xxx-offline-sites/wxx_WebsiteGuys/web/' target='_blank'>webdesignguys.ca</a> - this was &#8220;take 3&#8221;."
     },
     {
-      "date": "2006 - Apr",
-      "legacy": "Re-designed timur.ca <em>(ver. 3)</em>"
+      "date": "2006 - Sep",
+      "label": "timur.ca",
+      "legacy": "Re-designed timur.ca <em>(ver. 3)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v3.png' target='_blank'>exhibit</a>"
     },
     {
       "date": "2005 - Dec",
+      "label": "freelance",
       "legacy": "<a href='http://tochakov.powweb.com/zzzmisc/xxx-offline-sites/legacy/devcoast-v1.jpg' target='_blank'>devcoast.com</a> - &#8220;take 2&#8221; - Searching for a good domain name for my freelancing services."
     },
     {
       "date": "2005 - Nov",
+      "label": "project",
       "legacy": "<a href='http://web.archive.org/web/20060907101109/http://www.pokeronlinelinks.com/' target='_blank'>pokeronlinelinks.com</a> - Created a poker directory as I was into poker at that time."
     },
     {
       "date": "2005 - Oct",
+      "label": "project",
       "legacy": "<a href='http://web.archive.org/web/20051107041753/http://www.onemilliondollarads.com/' target='_blank'>onemilliondollarads.com</a> - Remember this <a href='http://www.milliondollarhomepage.com/' target='_blank'>page</a>? A lot of people tried to clone this but only the original made money."
     },
     {
       "date": "2005 - Aug",
-      "legacy": "<a href='http://www.timur.ca' target='_blank'>timur.ca</a> - This domain was initially taken and I was really fortunate that I ended getting it years later :)"
+      "label": "timur.ca",
+      "legacy": "<a href='http://web.archive.org/web/20060115062806/http://www.timur.ca:80/' target='_blank'>timur.ca</a> - This domain was initially taken and I was really fortunate that I ended getting it years later :)"
     },
     {
       "date": "2005 - Jan",
+      "label": "freelance",
       "legacy": "<a href='http://tochakov.powweb.com/zzzmisc/xxx-offline-sites/web-privet/wd' target='_blank'>privet.name</a> - Initially it was used as site for my freelancing services but then  I converted it to a <a href='http://web.archive.org/web/20050218094222/http://www.privet.name/' target='_blank'>russian music portal</a>."
     },
     {
       "date": "2004 - Apr",
+      "label": "project",
       "legacy": "<a href='http://web.archive.org/web/20040610190618/http://www.mygta.ca/' target='_blank'>mygta.ca</a> - Very exciting domain name which I built into a local business directory. Years later, I did a re-design <a href='http://www.webforward.ca/MyProjects/webforward/prototypes/mygta-v2/reg.html' target='_blank'>2.0 version</a> but it didn't take off."
     },
     {
       "date": "2004 - Feb",
+      "label": "project",
       "legacy": "<a href='http://web.archive.org/web/20040615090400/http://carbazar.ca/' target='_blank'>carbazar.ca</a> - Was my first project where I learned some <b>perl</b> and built a dynamic website for auto dealers & consumers to post their car ads online."
     },
     {
       "date": "2003 - Sep",
-      "legacy": "<a href='http://web.archive.org/web/20031119030749/http://tim0.net/' target='_blank'>tim0.net</a> - My very first domain that I bought which was used for my personal site. <em>(ver. 2)</em>"
+      "label": "timur.ca",
+      "legacy": "<a href='http://web.archive.org/web/20031119030749/http://tim0.net/' target='_blank'>tim0.net</a> - My very first domain that I bought which was used as my personal website. <em>(ver. 2)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v2.png' target='_blank'>exhibit</a>"
     },
     {
       "date": "2002 - May",
-      "legacy": "<b>timur.2ya.com</b> - This was my very first web site that I ever developed which consisted of 5 cool <b>flash</b> animations... That's right!! It wasn't even a traditional <b>HTML</b> site and resided on a free domain somewhere.. too bad I didn't keep it in my archives. <em>(ver. 1)</em>"
+      "label": "timur.ca",
+      "legacy": "<b>timur.2ya.com</b> - This was my very first web site that I ever developed which consisted of 5 cool flash animations... That's right!! It wasn't even a traditional HTML site and resided on a free domain somewhere.. too bad I didn't keep it in my archives. <em>(ver. 1)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v1.png' target='_blank'>exhibit</a>"
     }
   ],
   "page7": [{
