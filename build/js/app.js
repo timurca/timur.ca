@@ -36,6 +36,10 @@ myApp.controller('Controller10', function($scope, data, $sce) {
     $scope.todos = data;
 });
 
+myApp.controller('Controller11', function($scope, data, $sce) {
+    $scope.todos = data;
+});
+
 
 myApp.service('ApiService', function($http) {
   var api = {};
@@ -137,12 +141,22 @@ myApp.config(function ($routeProvider) {
         }
     })
 
-    .when('/now', {
-        templateUrl: 'pages/now.html',
+    .when('/guestbook', {
+        templateUrl: 'pages/guestbook.html',
         controller: 'Controller10',
         resolve: {
             data: function(ApiService) {
-                return ApiService.getDataByPage(9);
+                return ApiService.getDataByPage(10);
+            }
+        }
+    })
+
+    .when('/now', {
+        templateUrl: 'pages/now.html',
+        controller: 'Controller11',
+        resolve: {
+            data: function(ApiService) {
+                return ApiService.getDataByPage(11);
             }
         }
     })

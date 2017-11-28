@@ -45,11 +45,15 @@ $(function(){
      }, 3500);
     
 
-
   
     setTimeout(function(){ 
         $('.i3').show();
      }, 4500);
+
+    
+    setTimeout(function(){ 
+        $('.i4').show();
+     }, 5500);
     
   
 
