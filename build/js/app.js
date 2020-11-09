@@ -40,6 +40,10 @@ myApp.controller('Controller11', function($scope, data, $sce) {
     $scope.todos = data;
 });
 
+myApp.controller('Controller12', function($scope, data, $sce) {
+    $scope.todos = data;
+});
+
 
 myApp.service('ApiService', function($http) {
   var api = {};
@@ -157,6 +161,16 @@ myApp.config(function ($routeProvider) {
         resolve: {
             data: function(ApiService) {
                 return ApiService.getDataByPage(11);
+            }
+        }
+    })
+
+    .when('/nba-playoffs', {
+        templateUrl: 'pages/nba-playoffs.html',
+        controller: 'Controller12',
+        resolve: {
+            data: function(ApiService) {
+                return ApiService.getDataByPage(12);
             }
         }
     })

@@ -1,0 +1,231 @@
+
+<h2>NBA Playoffs - Team performances:</h2>
+
+<div id="page12">
+    
+    <div class="floatright_btns">
+            <div class="btn-group dropleft">
+                <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"
+                    aria-expanded="false">
+                    Filters
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    &nbsp; Time:
+                    <a class="dropdown-item" href="#">
+                        <div class="form-check form-check">
+                            <input class="form-check-input" type="radio" name="time" id="inlineRadio1" value="all"
+                                checked="">
+                            <label class="form-check-label" for="inlineRadio1">All-Time</label>
+                        </div>
+                    </a>
+                    <a class="dropdown-item" href="#">
+                        <div class="form-check form-check">
+                            <input class="form-check-input" type="radio" name="time" id="inlineRadio2" value="30">
+                            <label class="form-check-label" for="inlineRadio2">Past 30 Seasons</label>
+                        </div>
+                    </a>
+                    <a class="dropdown-item" href="#">
+                        <div class="form-check form-check">
+                            <input class="form-check-input" type="radio" name="time" id="inlineRadio3" value="20">
+                            <label class="form-check-label" for="inlineRadio3">Past 20 Seasons</label>
+                        </div>
+                    </a>
+                    <a class="dropdown-item" href="#">
+                        <div class="form-check form-check">
+                            <input class="form-check-input" type="radio" name="time" id="inlineRadio4" value="10">
+                            <label class="form-check-label" for="inlineRadio4">Past 10 Seasons</label>
+                        </div>
+                    </a>
+                    <a class="dropdown-item" href="#">
+                        <div class="form-check form-check">
+                            <input class="form-check-input" type="radio" name="time" id="inlineRadio5" value="5">
+                            <label class="form-check-label" for="inlineRadio5">Past 5 Seasons</label>
+                        </div>
+                    </a>
+                    <br /> &nbsp; Conferences:
+                    <a class="dropdown-item" href="#">
+                        <div class="form-check form-check">
+                            <input class="form-check-input" type="radio" name="conf" id="inlineRadio6" value="both"
+                                checked="">
+                            <label class="form-check-label" for="inlineRadio6">NBA</label>
+                        </div>
+                    </a>
+                    <a class="dropdown-item text-primary" href="#">
+                        <div class="form-check form-check">
+                            <input class="form-check-input" type="radio" name="conf" id="inlineRadio7" value="East">
+                            <label class="form-check-label" for="inlineRadio7">EAST</label>
+                        </div>
+                    </a>
+                    <a class="dropdown-item text-danger" href="#">
+                        <div class="form-check form-check">
+                            <input class="form-check-input" type="radio" name="conf" id="inlineRadio8" value="West">
+                            <label class="form-check-label" for="inlineRadio8">WEST</label>
+                        </div>
+                    </a>
+                    <br /> &nbsp; Teams:
+                    <a class="dropdown-item underline" href="#">
+                        <div class="form-check form-check">
+                            <input class="form-check-input" type="radio" name="status" id="inlineRadio9" value="all"
+                                checked="">
+                            <label class="form-check-label" for="inlineRadio9">All</label>
+                        </div>
+                    </a>
+                    <a class="dropdown-item" href="#">
+                        <div class="form-check form-check">
+                            <input class="form-check-input" type="radio" name="status" id="inlineRadio10"
+                                value="active">
+                            <label class="form-check-label" for="inlineRadio10">Active</label>
+                        </div>
+                    </a>
+                    <a class="dropdown-item text-muted" href="#">
+                        <div class="form-check form-check">
+                            <input class="form-check-input" type="radio" name="status" id="inlineRadio11"
+                                value="out-of-the-league">
+                            <label class="form-check-label" for="inlineRadio11">Non-Active</label>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <ul class="nav nav-tabs" id="myTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <a class="nav-link active" id="mtp-tab" data-toggle="tab" href="#mtp" role="tab" aria-controls="mtp"
+                    aria-selected="true">Made the Playoffs</a>
+            </li>
+            <li class="nav-item" role="presentation">
+                <a class="nav-link" id="wtfr-tab" data-toggle="tab" href="#wtfr" role="tab" aria-controls="wtfr"
+                    aria-selected="false">Won the 1st Round</a>
+            </li>
+            <li class="nav-item" role="presentation">
+                <a class="nav-link" id="wtsr-tab" data-toggle="tab" href="#wtsr" role="tab" aria-controls="wtsr"
+                    aria-selected="false">Won the 2nd Round</a>
+            </li>
+            <li class="nav-item" role="presentation">
+                <a class="nav-link" id="cc-tab" data-toggle="tab" href="#cc" role="tab" aria-controls="cc"
+                    aria-selected="false">Conf Champs</a>
+            </li>
+            <li class="nav-item" role="presentation">
+                <a class="nav-link" id="nc-tab" data-toggle="tab" href="#nc" role="tab" aria-controls="nc"
+                    aria-selected="false">NBA Champions</a>
+            </li>
+        </ul>
+        <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade show active" id="mtp" role="tabpanel" aria-labelledby="mtp-tab">
+                <table class="table table-hover">
+                    <thead>
+                        <tr class="tr_mn">
+                            <th scope="col"></th>
+                            <th scope="col"></th>
+                            <th scope="col"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+                    </tbody>
+                </table>
+            </div>
+            <div class="tab-pane fade" id="wtfr" role="tabpanel" aria-labelledby="wtfr-tab">
+                <table class="table table-hover">
+                    <thead>
+                        <tr class="tr_mn">
+                            <th scope="col"></th>
+                            <th scope="col"></th>
+                            <th scope="col"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+                    </tbody>
+                </table>
+            </div>
+            <div class="tab-pane fade" id="wtsr" role="tabpanel" aria-labelledby="wtsr-tab">
+                <table class="table table-hover">
+                    <thead>
+                        <tr class="tr_mn">
+                            <th scope="col"></th>
+                            <th scope="col"></th>
+                            <th scope="col"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td scope="row">1</td>
+                            <td><span class="badge badge-primary badge-pill wtbadge" id="LAL">LAL</span></td>
+                            <td>
+                                <span class="wtm">Los Angeles Lakers</span>
+                                <span class="wpts">
+                                    <h6 class="inln">15</h6>
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td scope="row" class="c1w">2</td>
+                            <td class="c2w"><span class="badge badge-primary badge-pill wtbadge" id="DET">DET</span>
+                            </td>
+                            <td>
+                                <span class="wtm">Detroit Pistons</span>
+                                <span class="wpts">
+                                    <h6 class="inln">11</h6>
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td scope="row" class="c1w">2</td>
+                            <td class="c2w"><span class="badge badge-primary badge-pill wtbadge" id="SAS">SAS</span>
+                            </td>
+                            <td>
+                                <span class="wtm">San Antonio Spurs</span>
+                                <span class="wpts">
+                                    <h6 class="inln">11</h6>
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td scope="row">4</td>
+                            <td><span class="badge badge-primary badge-pill wtbadge" id="BOS">BOS</span></td>
+                            <td>
+                                <span class="wtm">Boston Celtics</span>
+                                <span class="wpts">
+                                    <h6 class="inln">10</h6>
+                                </span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="tab-pane fade" id="cc" role="tabpanel" aria-labelledby="cc-tab">
+                <table class="table table-hover">
+                    <thead>
+                        <tr class="tr_mn">
+                            <th scope="col"></th>
+                            <th scope="col"></th>
+                            <th scope="col"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+                    </tbody>
+                </table>
+            </div>
+            <div class="tab-pane fade" id="nc" role="tabpanel" aria-labelledby="nc-tab">
+                <table class="table table-hover">
+                    <thead>
+                        <tr class="tr_mn">
+                            <th scope="col"></th>
+                            <th scope="col"></th>
+                            <th scope="col"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+
+</div>
+<style type="text/css">
+  header { background: linear-gradient(135deg, gold, green); }
+</style>
+
