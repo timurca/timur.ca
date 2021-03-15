@@ -409,6 +409,9 @@
     }
   ],
   "page5": [{
+      "date": "2021 - Jan",
+      "freelance": "Web Design & Development for <a href='http://www.wtkcat.com' target='_blank'>White Tiger King</a>"
+    },{
       "date": "2017 - Sep",
       "freelance": "Web Design & Development for <a href='http://www.ochakovsky.ca' target='_blank'>Semion Ochakovsky</a>"
     },
@@ -465,7 +468,13 @@
       "freelance": "Flash Development for <a href='http://tochakov.powweb.com/zzzmisc/xxx-offline-sites/bb/blush.html' target='_blank'>Blush Boutique</a>"
     }
   ],
-  "page6": [{
+  "page6": [
+    {
+      "date": "2020 - Nov",
+      "label": "project",
+      "legacy": "<a href='http://timur.ca/nba' target='_blank'>timur.ca/nba</a> - NBA Playoffs History"
+    },
+    {
       "date": "2017 - Oct",
       "label": "timur.ca",
       "legacy": "Re-designed timur.ca <em>(ver. 7)</em>"
@@ -620,6 +629,20 @@
     }
   ],
   "page8": [
+    {
+      "date": "2020 - Nov",
+      "club": "Centennial GC",
+      "cp": "60",
+      "shots": "92",
+      "score": "+32",
+      "bog": "7",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$29",
+      "friends": ""
+    },
     {
       "date": "2020 - Nov",
       "club": "Dentonia",
