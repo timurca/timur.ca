@@ -604,28 +604,36 @@
     }
   ],
   "page7": [{
-      "date": "2009 - Oct",
-      "fulltime": "Front-end Developer at <a href='http://www.rogers.com' target='_blank'>Rogers</a>"
+      "date": "2009 - 2021",
+      "fulltime": "Sr. Digital Developer Lead at <a href='http://www.rogers.com' target='_blank'>Rogers</a>"
     },
     {
-      "date": "2008 - Dec",
-      "fulltime": "Front-end Developer contractor at <a href='http://www.rogersmedia.com/digital' target='_blank'>Rogers Media</a>"
+      "date": "2009 - 2009",
+      "fulltime": "Front-end Developer at <a href='http://www.rogerssportsandmedia.com' target='_blank'>Rogers Media</a> - via Contract with <a href='http://www.infotek-consulting.com' target='_blank'>InfoTek</a>"
     },
     {
-      "date": "2008 - Jun",
-      "fulltime": "Front-end Developer contractor at <a href='http://www.webforward.ca/portfolio/beer/' target='_blank'>Beer.com</a>"
+      "date": "2008 - 2009",
+      "fulltime": "Front-end Developer at <a href='https://www.canadianbusiness.com/' target='_blank'>Canadian Business</a> - via Contract with <a href='http://www.infotek-consulting.com' target='_blank'>InfoTek</a>"
     },
     {
-      "date": "2008 - Feb",
-      "fulltime": "Front-end Developer contractor at <a href='http://www.mto.gov.on.ca/english/' target='_blank'>Ministry of Transportation</a>"
+      "date": "2008 - 2008",
+      "fulltime": "Front-end Developer contract with <a href='http://www.webforward.ca/portfolio/beer/' target='_blank'>Dthree (Beer.com)</a>"
     },
     {
-      "date": "2007 - Jan",
+      "date": "2008 - 2008",
+      "fulltime": "Front-end Developer at <a href='http://www.mto.gov.on.ca/english/' target='_blank'>Ministry of Transportation</a> - via Contract with <a href='http://www.digitalembrace.com' target='_blank'>Digital Embrace</a>"
+    },
+    {
+      "date": "2007 - 2008",
       "fulltime": "Front-end Developer at <a href='http://www.businessmedia.ca' target='_blank'>Business Media</a>"
     },
     {
-      "date": "2006 - Jan",
-      "fulltime": "Webmaster/Front-end Developer at <a href='http://www.acdstudios.com' target='_blank'>ACD Studios</a>"
+      "date": "2006 - 2006",
+      "fulltime": "Webmaster/Front-end Developer at <a href='http://www.acdstudios.ca' target='_blank'>ACD Studios</a>"
+    },
+    {
+      "date": "",
+      "fulltime": "See <a href='http://www.timur.ca/resume' target='_blank'>detailed resume</a>"
     }
   ],
   "page8": [
