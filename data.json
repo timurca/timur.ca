@@ -1,0 +1,2139 @@
+[{
+  "page2": [{
+      "date": "2019 - May",
+      "place": "Italy"
+    },{
+      "date": "2018 - Nov",
+      "place": "Seoul, South Korea"
+    },{
+      "date": "2017 - Oct",
+      "place": "New York, USA"
+    },{
+      "date": "2017 - May",
+      "place": "Costa Rica"
+    },
+    {
+      "date": "2017 - Feb",
+      "place": "San Francisco, USA"
+    },
+    {
+      "date": "2016 - Nov",
+      "place": "Vermont, USA"
+    },
+    {
+      "date": "2016 - Oct",
+      "place": "Israel"
+    },
+    {
+      "date": "2016 - Apr",
+      "place": "Indianapolis, USA"
+    },
+    {
+      "date": "2016 - Apr",
+      "place": "Bermuda"
+    },
+    {
+      "date": "2015 - Nov",
+      "place": "New Orleans, USA"
+    },
+    {
+      "date": "2015 - Jul",
+      "place": "Ottawa, Canada"
+    },
+    {
+      "date": "2014 - Dec",
+      "place": "Detroit, USA"
+    },
+    {
+      "date": "2014 - Sep",
+      "place": "Chichen Itza, Mexico"
+    },
+    {
+      "date": "2014 - Sep",
+      "place": "Cancun, Mexico"
+    },
+    {
+      "date": "2014 - Mar",
+      "place": "Banff, Canada"
+    },
+    {
+      "date": "2014 - Mar",
+      "place": "Calgary, Canada"
+    },
+    {
+      "date": "2013 - Oct",
+      "place": "Tokyo, Japan"
+    },
+    {
+      "date": "2013 - Jan",
+      "place": "Lake Placid, USA"
+    },
+    {
+      "date": "2012 - Aug",
+      "place": "San Francisco, USA"
+    },
+    {
+      "date": "2012 - Aug",
+      "place": "Portland, USA"
+    },
+    {
+      "date": "2012 - Aug",
+      "place": "Seattle, USA"
+    },
+    {
+      "date": "2012 - Aug",
+      "place": "Vancouver, Canada"
+    },
+    {
+      "date": "2011 - Dec",
+      "place": "Santa Lucia, Cuba"
+    },
+    {
+      "date": "2008 - Sep",
+      "place": "Ottawa, Canada"
+    },
+    {
+      "date": "2008 - May",
+      "place": "Amsterdam, Holland"
+    },
+    {
+      "date": "2008 - May",
+      "place": "Prague, Czech Republic"
+    },
+    {
+      "date": "2007 - May",
+      "place": "Munich, Germany"
+    },
+    {
+      "date": "2007 - May",
+      "place": "Paris, France"
+    },
+    {
+      "date": "2007 - May",
+      "place": "Prague, Czech Republic"
+    },
+    {
+      "date": "2007 - May",
+      "place": "Munich, Germany"
+    },
+    {
+      "date": "2007 - May",
+      "place": "Vienna, Austria"
+    },
+    {
+      "date": "2007 - May",
+      "place": "Prague, Czech Republic"
+    },
+    {
+      "date": "2007 - May",
+      "place": "Berlin, Germany"
+    },
+    {
+      "date": "2007 - May",
+      "place": "Amsterdam, Holland"
+    },
+    {
+      "date": "2007 - May",
+      "place": "Brussels, Belgium"
+    },
+    {
+      "date": "2007 - May",
+      "place": "London, England"
+    },
+    {
+      "date": "2007 - May",
+      "place": "Stonehenge, England"
+    },
+    {
+      "date": "2007 - May",
+      "place": "Manchester, England"
+    },
+    {
+      "date": "2005 - May",
+      "place": "Los Angeles, USA"
+    },
+    {
+      "date": "2005 - May",
+      "place": "Las Vegas, USA"
+    },
+    {
+      "date": "2003 - Jun",
+      "place": "Miami, USA"
+    },
+    {
+      "date": "2002 - Aug",
+      "place": "Montreal, Canada"
+    },
+    {
+      "date": "2000 - Jul",
+      "place": "Philadelphia, USA"
+    },
+    {
+      "date": "2000 - Jul",
+      "place": "Atlantic City, USA"
+    },
+    {
+      "date": "2000 - Jul",
+      "place": "New York, USA"
+    },
+    {
+      "date": "1999 - Jun",
+      "place": "Montreal, Canada"
+    }
+  ],
+  "page3": [{
+      "date": "2017 - Aug",
+      "label": "inspiring",
+      "item": "Ivan on Tech <a href='https://www.youtube.com/user/LiljeqvistIvan/videos' target='_blank'>Youtube Channel</a>"
+    },
+    {
+      "date": "2016 - Sep",
+      "label": "favourite videos",
+      "item": "Anthony Alicea: JavaScript - Understanding the Weird Parts <a href='https://www.udemy.com/understand-javascript/' target='_blank'>Videos</a> | <a href='https://github.com/timurca/learning-JS' target='_blank'>Notes</a> | <a href='http://javascriptissexy.com/12-simple-yet-powerful-javascript-tips/' target='_blank'>Tips</a>"
+    },
+    {
+      "date": "2016 - Mar",
+      "label": "favourite videos",
+      "item": "Casey Li: <a href='https://www.youtube.com/watch?v=xCteegcemgw' target='_blank'>Gitting on Youtube</a>"
+    },
+    {
+      "date": "2013 - Aug",
+      "label": "getting started",
+      "item": "Ilya Kantor <a href='http://javascript.info/' target='_blank'>Modern JavaScript Tutorials</a>"
+    },
+    {
+      "date": "2013 - Jul",
+      "label": "skeleton",
+      "item": "Responsive examples: <a href='http://bradfrost.github.io/this-is-responsive/patterns.html' target='_blank'>Patterns & Modules</a>"
+    },
+    {
+      "date": "2013 - Jun",
+      "label": "articles",
+      "item": "Frontend-dev <a href='https://frontend.directory' target='_blank'>Bookmarks</a>"
+    },
+    {
+      "date": "2013 - Mar",
+      "label": "inspiring",
+      "item": "Derek Sivers: <a href='https://sivers.org/learn-js' target='_blank'>How to learn JavaScript</a>"
+    },
+    {
+      "date": "2013 - Mar",
+      "label": "article",
+      "item": "web performance: <a href='https://browserdiet.com/' target='_blank'>How to lose weight in the browser</a>"
+    },
+    {
+      "date": "2012 - Aug",
+      "label": "getting started",
+      "item": "Chrome Developer Tools: <a href='https://developers.google.com/web/tools/chrome-devtools/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3' target='_blank'>DevTools</a>"
+    },
+    {
+      "date": "2012 - Aug",
+      "label": "code egs",
+      "item": "Cheat Sheets Collection <a href='http://www.overapi.com/' target='_blank'>OverAPI.com collecting all the cheat sheets</a>"
+    },
+    {
+      "date": "2012 - Jun",
+      "label": "video",
+      "item": "Paul Irish <a href='https://www.paulirish.com/2010/10-things-i-learned-from-the-jquery-source/' target='_blank'>10 Things I Learned From the jQuery Source</a>"
+    },
+    {
+      "date": "2012 - Jul",
+      "label": "getting started",
+      "item": "jQuery Javascript Library: <a href='http://api.jquery.com/' target='_blank'>jQuery Documentation</a>"
+    },
+    {
+      "date": "2012 - Jun",
+      "label": "inspiring",
+      "item": "Rebecca Murphey: <a href='http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers' target='_blank'>A Baseline for Front-End Developers</a>"
+    },
+    {
+      "date": "2011 - Oct",
+      "label": "videos",
+      "item": "Bucky Roberts Video Collection: <a href='https://thenewboston.com/' target='_blank'>The New Boston Tutorials</a>"
+    },
+    {
+      "date": "2011 - Oct",
+      "label": "code egs",
+      "item": "Chris Coyier: <a href='https://css-tricks.com/' target='_blank'>CSS Tricks</a>"
+    }
+  ],
+  "page4": [{
+      "date": "ongoing",
+      "label": "github",
+      "item": "Github <a href='https://github.com/timurca?tab=repositories' target='_blank'>Repositories</a>"
+    },
+    {
+      "date": "ongoing",
+      "label": "jsFiddle",
+      "item": "jsFiddle <a href='http://jsfiddle.net/user/timur/' target='_blank'>Examples</a>"
+    },
+    {
+      "date": "2013 - Jul",
+      "label": "jquery",
+      "item": "R.com: switch/case <a href='http://jsfiddle.net/timur/uPfJ9/' target='_blank'>jsFiddle</a>"
+    },
+    {
+      "date": "2013 - Jul",
+      "label": "css",
+      "item": "Logo Twerking <a href='http://www.timur.ca/ZZZ/june/html5/tada.html' target='_blank'>Tada</a>"
+    },
+    {
+      "date": "2013 - Jun",
+      "label": "plugin",
+      "item": "Search Plugin: <a href='http://www.timur.ca/ZZZ/june/js101/json/V3.json/' target='_blank'>table</a>, <a href='http://www.timur.ca/ZZZ/june/js101/json/V3.json/li.html' target='_blank'>li List</a>"
+    },
+    {
+      "date": "2013 - Jun",
+      "label": "jquery",
+      "item": "jsFiddle: <a href='http://jsfiddle.net/vvnj5/' target='_blank'>JSON - isolating hw pricing</a>"
+    },
+    {
+      "date": "2013 - May",
+      "label": "json",
+      "item": "JSON Practice: <a href='http://www.timur.ca/ZZZ/web/june/js101/json/' target='_blank'>link</a>"
+    },
+    {
+      "date": "2013 - May",
+      "label": "jquery",
+      "item": "jsFiddle: <a href='http://jsfiddle.net/uQh25/' target='_blank'>IMG hover()</a>"
+    },
+    {
+      "date": "2013 - Apr",
+      "label": "jquery",
+      "item": "jsfiddle <a href='http://jsfiddle.net/Z8LhT/' target='_blank'>setTimeout()</a>"
+    },
+    {
+      "date": "2013 - Mar",
+      "label": "jquery",
+      "item": "Find a string: R.com: <a href='http://jsfiddle.net/timur/mRCcp/' target='_blank'>eg1</a>, <a href='http://jsfiddle.net/timur/Htv3J/' target='_blank'>eg2</a>, <a href='http://jsfiddle.net/a9Lqb/' target='_blank'>eg3</a>, <a href='http://jsfiddle.net/a9Lqb/' target='_blank'>eg4</a>, <a href='http://jsfiddle.net/timur/vYehC/' target='_blank'>eg5</a>"
+    },
+    {
+      "date": "2013 - Mar",
+      "label": "jquery",
+      "item": "Targeting: R.com: <a href='http://jsfiddle.net/timur/edVrx/' target='_blank'>eg1</a>, <a href='http://jsfiddle.net/timur/psNFD/' target='_blank'>eg2</a>, <a href='http://jsfiddle.net/timur/dq99L/' target='_blank'>eg3 URL + dropdown</a>, <a href='http://jsfiddle.net/timur/WRREt/' target='_blank'>eg4</a> | <a href='http://jsfiddle.net/timur/WRREt/5/' target='_blank'>eg5</a>"
+    },
+    {
+      "date": "2013 - Feb",
+      "label": "jquery",
+      "item": "Re-size a video embed <a href='http://jsfiddle.net/timur/HhGB9/' target='_blank'>jsfiddle</a>"
+    },
+    {
+      "date": "2012 - Oct",
+      "label": "jquery",
+      "item": "Redirect: Get window URL; split string by & and get last instance to generate an auto click <a href='http://jsfiddle.net/timur/aeGaL/' target='_blank'>jsFiddle</a>"
+    },
+    {
+      "date": "2012 - Oct",
+      "label": "jquery",
+      "item": "Image swap on R.com: <a href='http://jsfiddle.net/timur/rRzBN/' target='_blank'>v1</a>, <a href='http://jsfiddle.net/timur/rRzBN/1/' target='_blank'>v2 + disabling mouseover</a>, <a href='http://jsfiddle.net/timur/rRzBN/2/' target='_blank'>v3 + adding a new mouseover</a>, <a href='http://jsfiddle.net/timur/rRzBN/3/' target='_blank'>v4 production code</a>"
+    },
+    {
+      "date": "2012 - Jul",
+      "label": "jquery",
+      "item": "jQuery Templates: <a href='http://www.timur.ca/ZZZ/june/js101/templates/templates-01.html' target='_blank'>eg 1: not a template</a>, <a href='http://www.timur.ca/ZZZ/june/js101/templates/templates-02.html' target='_blank'>eg 2: template</a>, <a href='http://www.timur.ca/ZZZ/june/js101/templates/templates-03.html' target='_blank'>eg 3: template /w auto-iteration</a>, <a href='http://www.timur.ca/ZZZ/june/js101/templates/templates-04.html' target='_blank'>eg 4: template inside the HTML</a>"
+    },
+    {
+      "date": "2012 - Jul",
+      "label": "jquery",
+      "item": "Web Storage API: <a href='http://www.timur.ca/ZZZ/june/html5/web-storage-api.html' target='_blank'>Single</a>, <a href='http://www.timur.ca/ZZZ/june/html5/web-storage-api-2.html' target='_blank'>Multiple</a>, <a href='http://www.timur.ca/ZZZ/june/html5/web-storage-api-3.html' target='_blank'>jQuery ver</a>"
+    },
+    {
+      "date": "2012 - Jul",
+      "label": "css,jquery",
+      "item": "Navigation Nav: <a href='http://jsfiddle.net/timur/5U4da/' target='_blank'>Horizontal eg</a>, <a href='http://jsfiddle.net/timur/fPs8m/' target='_blank'>Vertical eg</a>, <a href='http://jsfiddle.net/McRvC/2/' target='_blank'>Horizontal /tabs </a>, <a href='http://jsfiddle.net/timur/McRvC/1/' target='_blank'>Vertical /tabs</a>"
+    },
+    {
+      "date": "2012 - Jul",
+      "label": "css",
+      "item": "Transformations types: <a href='http://www.timur.ca/ZZZ/june/html5/transformation.html' target='_blank'>Samples</a>"
+    },
+    {
+      "date": "2012 - Jul",
+      "label": "js",
+      "item": "js functions: <a href='http://www.timur.ca/ZZZ/june/js101/functions.html' target='_blank'>custom functions, /w params, /w multiple params, /w return, annonymous, self executed</a>"
+    },
+    {
+      "date": "2012 - Jun",
+      "label": "jquery",
+      "item": "Toggle a function <a href='http://www.timur.ca/ZZZ/june/js101/toggle-a-function.html' target='_blank'>eg</a>"
+    },
+    {
+      "date": "2012 - Jun",
+      "label": "css,jquery",
+      "item": "Bear: Moving a character <a href='http://www.timur.ca/ZZZ/june/js101/bear/v1.html' target='_blank'>v1</a>, <a href='http://www.timur.ca/ZZZ/june/js101/bear/v2.html' target='_blank'>Beta</a>"
+    },
+    {
+      "date": "2012 - Jun",
+      "label": "js",
+      "item": "js fundamentals: <a href='http://www.timur.ca/ZZZ/june/js101/arrays-objects-loops.html' target='_blank'>Loops, Arrays, Objects</a>"
+    },
+    {
+      "date": "2012 - Jun",
+      "label": "js",
+      "item": "Paul Irish: <a href='http://www.timur.ca/ZZZ/june/js101/setTimeout.html' target='_blank'>How to correctly execute a function via loop</a>"
+    },
+    {
+      "date": "2012 - May",
+      "label": "css,html,jquery",
+      "item": "jsFiddle: <a href='http://jsfiddle.net/timur/vcNHN/1/' target='_blank'>Slider on a div</a> as on the chrome store, <a href='http://jsfiddle.net/timur/vcNHN/3/' target='_blank'>Slider on a multiple divs</a>, <a href='http://www.webforward.ca/code/googleChromeStoreDemo/gallery.html' target='_blank'>beta eg.</a>"
+    },
+    {
+      "date": "2012 - May",
+      "label": "json",
+      "item": "JSON: <a href='http://www.webforward.ca/code/JSON/' target='_blank'>Overview</a>, <a href='http://www.webforward.ca/code/JSON/v1.html' target='_blank'>eg. 1</a>, <a href='http://www.webforward.ca/code/JSON/v2.html' target='_blank'>eg. 2</a>"
+    },
+    {
+      "date": "2012 - Feb",
+      "label": "jquery",
+      "item": "jsFiddle <a href='http://jsfiddle.net/timur/NNxw4/' target='_blank'>Count elements</a>, <a href='http://jsfiddle.net/timur/47a7A/' target='_blank'>Count character remaining in a textarea</a>, <a href='http://jsfiddle.net/timur/DUrPp/' target='_blank'>minlenght of characters - form eg</a>"
+    },
+    {
+      "date": "2012 - Feb",
+      "label": "jquery",
+      "item": "jsFiddle <a href='http://jsfiddle.net/timur/bMfdD/' target='_blank'>Toggle</a>, <a href='http://jsfiddle.net/timur/bMfdD/6/' target='_blank'>slideDown/slideUp</a>, <a href='http://jsfiddle.net/timur/bMfdD/3/' target='_blank'>.focus</a>"
+    },
+    {
+      "date": "2012 - Feb",
+      "label": "jquery",
+      "item": "Shuffle: <a href='http://jsfiddle.net/bAynQ/' target='_blank'>ul/li, div, array eg</a>"
+    },
+    {
+      "date": "2012 - Feb",
+      "label": "jquery",
+      "item": "Animate: <a href='http://jsfiddle.net/timur/CAErp/' target='_blank'>eg1</a>, <a href='http://jsfiddle.net/timur/pArSL/5/' target='_blank'>eg2</a>, <a href='http://jsfiddle.net/timur/DeLTQ/3/' target='_blank'>eg3 fadeIn</a>"
+    },
+    {
+      "date": "2011 - Dec",
+      "label": "css,html",
+      "item": "Layout: <a href='http://www.timur.ca/ZZZ/june/html5/flexible-box-model.html' target='_blank'>Flexible Box Model</a>"
+    }
+  ],
+  "page5": [{
+      "date": "2021 - Jan",
+      "freelance": "Web Design & Development for <a href='http://www.wtkcat.com' target='_blank'>White Tiger King</a>"
+    },{
+      "date": "2017 - Sep",
+      "freelance": "Web Design & Development for <a href='http://www.ochakovsky.ca' target='_blank'>Semion Ochakovsky</a>"
+    },
+    {
+      "date": "2011 - Dec",
+      "freelance": "Web Design & Development for <a href='http://www.webforward.ca/MyProjects/webforward/prototypes/FLPSAM/Original/index.html' target='_blank'>FLP Sam</a>"
+    },
+    {
+      "date": "2011 - Nov",
+      "freelance": "Graphic Design for <a href='http://www.webforward.ca/prototypes/b&r_machines/homev3.html' target='_blank'>B&R Machines</a>"
+    },
+    {
+      "date": "2011 - Jun",
+      "freelance": "Graphic Design for <a href='http://www.webforward.ca/prototypes/annonymus/ver1.html' target='_blank'>Renown</a>"
+    },
+    {
+      "date": "2011 - May",
+      "freelance": "Graphic Design for <a href='http://www.webforward.ca/MyProjects/webforward/prototypes/envirocan/ver5.html' target='_blank'>ACG Technology</a>"
+    },
+    {
+      "date": "2011 - Apr",
+      "freelance": "Graphic Design for <a href='http://www.webforward.ca/MyProjects/webforward/prototypes/weltman/main1.html' target='_blank'>Weltman, Bernstein</a>"
+    },
+    {
+      "date": "2011 - Mar",
+      "freelance": "Graphic Design & Development for <a href='http://www.webforward.ca/MyProjects/webforward/prototypes/billiards/main1.html' target='_blank'>Billiard Depot</a>"
+    },
+    {
+      "date": "2010 - Dec",
+      "freelance": "Graphic Design for <a href='http://www.webforward.ca/MyProjects/webforward/prototypes/loansite/main4.html' target='_blank'>Top Canadian Mortgages</a>"
+    },
+    {
+      "date": "2010 - Sep",
+      "freelance": "Graphic Design for <a href='http://www.webforward.ca/MyProjects/webforward/prototypes/lafert/v4.html' target='_blank'>Lafert Metric Motors</a>"
+    },
+    {
+      "date": "2010 - Apr",
+      "freelance": "Graphic Design & Development for <a href='http://www.webforward.ca/MyProjects/webforward/prototypes/sallylian/web/myphpPhase2/index.php' target='_blank'>Sally Lian</a>"
+    },
+    {
+      "date": "2009 - Dec",
+      "freelance": "Website for <a href='http://web.archive.org/web/20110403040232/http://www.scrapjunkcars.com/' target='_blank'>Scrap Junk Cars</a>"
+    },
+    {
+      "date": "2009 - Jan",
+      "freelance": "Web Design & Development for <a href='http://www.deltamovers.ca/' target='_blank'>Delta Movers</a>"
+    },
+    {
+      "date": "2008 - Mar",
+      "freelance": "Web Design & Development for <a href='http://www.alphamovers.ca/' target='_blank'>Alpha Movers</a>"
+    },
+    {
+      "date": "2006 - Jul",
+      "freelance": "Flash Development for <a href='http://tochakov.powweb.com/zzzmisc/xxx-offline-sites/bb/blush.html' target='_blank'>Blush Boutique</a>"
+    }
+  ],
+  "page6": [
+    {
+      "date": "2020 - Nov",
+      "label": "project",
+      "legacy": "<a href='http://timur.ca/nba' target='_blank'>timur.ca/nba</a> - NBA Playoffs History"
+    },
+    {
+      "date": "2017 - Oct",
+      "label": "timur.ca",
+      "legacy": "Re-designed timur.ca <em>(ver. 7)</em>"
+    },{
+      "date": "2016 - Jan",
+      "label": "resume",
+      "legacy": "<a href='http://www.timur.ca/resume' target='_blank'>timur.ca/resume</a> - Re-designed my online resume <em>(ver. 3)</em>"
+    },{
+      "date": "2013 - May",
+      "label": "project",
+      "legacy": "<a href='http://www.ballwinners.com/seasons/baseball/2013/' target='_blank'>ballwinners.com/baseball</a> - Then lastly for MLB."
+    },
+    {
+      "date": "2013 - Mar",
+      "label": "project",
+      "legacy": "<a href='http://www.ballwinners.com/seasons/hockey/2013/' target='_blank'>ballwinners.com/hockey</a> - A yead after launching ballwinners for NBA, I decided to do the same for the NHL."
+    },
+    {
+      "date": "2012 - Oct",
+      "label": "project",
+      "legacy": "<a href='http://www.ballwinners.com/seasons/nba/2012-13/' target='_blank'>ballwinners.com</a> - This was my most popular project supporting hundreds of users. It was a NBA reality league where users could track & get ranked based on their NBA game pick predictions."
+    },
+    {
+      "date": "2012 - Aug",
+      "label": "timur.ca",
+      "legacy": "Re-designed timur.ca <em>(ver. 6)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v6.png' target='_blank'>exhibit</a>"
+    },
+    {
+      "date": "2012 - Jan",
+      "label": "timur.ca",
+      "legacy": "Re-designed timur.ca <em>(ver. 5)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v5.png' target='_blank'>exhibit</a>"
+    },
+    {
+      "date": "2011 - Nov",
+      "label": "project",
+      "legacy": "<a href='http://web.archive.org/web/20120419071447/http://www.dmozin.com/' target='_blank'>dmozin.com</a> - I was learning the basics of php and hence this project."
+    },
+    {
+      "date": "2011 - Jun",
+      "label": "project",
+      "legacy": "<a href='http://www.webforward.ca/MyProjects/webforward/prototypes/therealtors/web/profile.shtml' target='_blank'>therealtors.net</a> - The real estate field was always appealing to me and after buying this domain, I went to work and built a social media portal for real estate professionals but I was advised to shut it down.. If only that I knew that &#8220;realtor&#8221; was a trademark word; would've saved a lot of effort."
+    },
+    {
+      "date": "2011 - Feb",
+      "label": "timur.ca",
+      "legacy": "Re-designed timur.ca <em>(ver. 4)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v4.png' target='_blank'>exhibit</a>"
+    },
+    {
+      "date": "2009 - Sep",
+      "label": "resume",
+      "legacy": "Re-designed my online resume. <em>(ver. 2)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/resume-v2.png' target='_blank'>exhibit</a>"
+    },
+    {
+      "date": "2008 - Aug",
+      "label": "project",
+      "legacy": "<a href='http://www.anews.ca' target='_blank'>anews.ca</a> - I was messing around with wordpress and eventually turned this domain into a blog."
+    },
+    {
+      "date": "2008 - Jun",
+      "label": "freelance",
+      "legacy": "<a href='http://www.webforward.ca' target='_blank'>webforward.ca</a> - &#8220;take 5&#8221; was a keeper as I finally found a domain name i liked for my freelancing site."
+    },
+    {
+      "date": "2008 - Feb",
+      "label": "freelance",
+      "legacy": "<a href='http://tochakov.powweb.com/zzzmisc/xxx-offline-sites/wxx_web-advisors/web/index.shtml' target='_blank'>web-advisors.ca</a> - &#8220;take 4&#8221; - In this episode I partnered with an ex-colleague and tried to play the &#8220;web design studio game&#8221;. (that one crushed in a hurry)"
+    },
+    {
+      "date": "2007 - Dec",
+      "label": "resume",
+      "legacy": "<a href='/resume/' target='_blank'>timur.ca/resume</a> - Created an online version of my resume. <em>(ver. 1)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/resume-v1.png' target='_blank'>exhibit</a>"
+    },
+    {
+      "date": "2007 - Aug",
+      "label": "freelance",
+      "legacy": "<a href='http://tochakov.powweb.com/zzzmisc/xxx-offline-sites/wxx_WebsiteGuys/web/' target='_blank'>webdesignguys.ca</a> - this was &#8220;take 3&#8221;."
+    },
+    {
+      "date": "2006 - Sep",
+      "label": "timur.ca",
+      "legacy": "Re-designed timur.ca <em>(ver. 3)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v3.png' target='_blank'>exhibit</a>"
+    },
+    {
+      "date": "2005 - Dec",
+      "label": "freelance",
+      "legacy": "<a href='http://tochakov.powweb.com/zzzmisc/xxx-offline-sites/legacy/devcoast-v1.jpg' target='_blank'>devcoast.com</a> - &#8220;take 2&#8221; - Searching for a good domain name for my freelancing services."
+    },
+    {
+      "date": "2005 - Nov",
+      "label": "project",
+      "legacy": "<a href='http://web.archive.org/web/20060907101109/http://www.pokeronlinelinks.com/' target='_blank'>pokeronlinelinks.com</a> - Created a poker directory as I was into poker at that time."
+    },
+    {
+      "date": "2005 - Oct",
+      "label": "project",
+      "legacy": "<a href='http://web.archive.org/web/20051107041753/http://www.onemilliondollarads.com/' target='_blank'>onemilliondollarads.com</a> - Remember this <a href='http://www.milliondollarhomepage.com/' target='_blank'>page</a>? A lot of people tried to clone this but only the original made money."
+    },
+    {
+      "date": "2005 - Aug",
+      "label": "timur.ca",
+      "legacy": "<a href='http://web.archive.org/web/20060115062806/http://www.timur.ca:80/' target='_blank'>timur.ca</a> - This domain was initially taken and I was really fortunate that I ended getting it years later :)"
+    },
+    {
+      "date": "2005 - Jan",
+      "label": "freelance",
+      "legacy": "<a href='http://tochakov.powweb.com/zzzmisc/xxx-offline-sites/web-privet/wd' target='_blank'>privet.name</a> - Initially it was used as site for my freelancing services but then  I converted it to a <a href='http://web.archive.org/web/20050218094222/http://www.privet.name/' target='_blank'>russian music portal</a>."
+    },
+    {
+      "date": "2004 - Apr",
+      "label": "project",
+      "legacy": "<a href='http://web.archive.org/web/20040610190618/http://www.mygta.ca/' target='_blank'>mygta.ca</a> - Very exciting domain name which I built into a local business directory. Years later, I did a re-design <a href='http://www.webforward.ca/MyProjects/webforward/prototypes/mygta-v2/reg.html' target='_blank'>2.0 version</a> but it didn't take off."
+    },
+    {
+      "date": "2004 - Feb",
+      "label": "project",
+      "legacy": "<a href='http://web.archive.org/web/20040615090400/http://carbazar.ca/' target='_blank'>carbazar.ca</a> - Was my first project where I learned some <b>perl</b> and built a dynamic website for auto dealers & consumers to post their car ads online."
+    },
+    {
+      "date": "2003 - Sep",
+      "label": "timur.ca",
+      "legacy": "<a href='http://web.archive.org/web/20031119030749/http://tim0.net/' target='_blank'>tim0.net</a> - My very first domain that I bought which was used as my personal website. <em>(ver. 2)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v2.png' target='_blank'>exhibit</a>"
+    },
+    {
+      "date": "2002 - May",
+      "label": "timur.ca",
+      "legacy": "<b>timur.2ya.com</b> - This was my very first web site that I ever developed which consisted of 5 cool flash animations... That's right!! It wasn't even a traditional HTML site and resided on a free domain somewhere.. too bad I didn't keep it in my archives. <em>(ver. 1)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v1.png' target='_blank'>exhibit</a>"
+    }
+  ],
+  "page7": [{
+      "date": "2009 - 2021",
+      "fulltime": "Sr. Digital Developer Lead at <a href='http://www.rogers.com' target='_blank'>Rogers</a>"
+    },
+    {
+      "date": "2009 - 2009",
+      "fulltime": "Front-end Developer at <a href='http://www.rogerssportsandmedia.com' target='_blank'>Rogers Media</a> - via Contract with <a href='http://www.infotek-consulting.com' target='_blank'>InfoTek</a>"
+    },
+    {
+      "date": "2008 - 2009",
+      "fulltime": "Front-end Developer at <a href='https://www.canadianbusiness.com/' target='_blank'>Canadian Business</a> - via Contract with <a href='http://www.infotek-consulting.com' target='_blank'>InfoTek</a>"
+    },
+    {
+      "date": "2008 - 2008",
+      "fulltime": "Front-end Developer contract with <a href='http://www.webforward.ca/portfolio/beer/' target='_blank'>Dthree (Beer.com)</a>"
+    },
+    {
+      "date": "2008 - 2008",
+      "fulltime": "Front-end Developer at <a href='http://www.mto.gov.on.ca/english/' target='_blank'>Ministry of Transportation</a> - via Contract with <a href='http://www.digitalembrace.com' target='_blank'>Digital Embrace</a>"
+    },
+    {
+      "date": "2007 - 2008",
+      "fulltime": "Front-end Developer at <a href='http://www.businessmedia.ca' target='_blank'>Business Media</a>"
+    },
+    {
+      "date": "2006 - 2006",
+      "fulltime": "Webmaster/Front-end Developer at <a href='http://www.acdstudios.ca' target='_blank'>ACD Studios</a>"
+    },
+    {
+      "date": "",
+      "fulltime": "See <a href='http://www.timur.ca/resume' target='_blank'>detailed resume</a>"
+    }
+  ],
+  "page8": [
+    {
+      "date": "2021 - May",
+      "club": "Scarlett Woods",
+      "cp": "61",
+      "shots": "95",
+      "score": "+34",
+      "bog": "5",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$39.00",
+      "friends": ""
+    },
+    {
+      "date": "2020 - Nov",
+      "club": "Centennial GC",
+      "cp": "60",
+      "shots": "92",
+      "score": "+32",
+      "bog": "7",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$29",
+      "friends": ""
+    },
+    {
+      "date": "2020 - Nov",
+      "club": "Dentonia",
+      "cp": "54",
+      "shots": "89",
+      "score": "+35",
+      "bog": "5",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$28",
+      "friends": ""
+    },
+    {
+      "date": "2020 - Nov",
+      "club": "Scarlett Woods",
+      "cp": "61",
+      "shots": "90",
+      "score": "+29",
+      "bog": "6",
+      "par": "1",
+      "brd": "1",
+      "egl": "",
+      "achievement": "",
+      "price": "$38.00",
+      "friends": ""
+    },
+    {
+      "date": "2020 - Sep",
+      "club": "Turtle Creek Golf Club",
+      "cp": "70",
+      "shots": "107",
+      "score": "+37",
+      "bog": "2",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$19.90",
+      "friends": "Tyler, Appa, Shaun"
+    },
+    {
+      "date": "2020 - Aug",
+      "club": "Dentonia",
+      "cp": "54",
+      "shots": "79",
+      "score": "+25",
+      "bog": "8",
+      "par": "1",
+      "brd": "1",
+      "egl": "",
+      "achievement": "",
+      "price": "$29",
+      "friends": ""
+    },
+    {
+      "date": "2020 - Aug",
+      "club": "Humber Valley",
+      "cp": "70",
+      "shots": "94",
+      "score": "+24",
+      "bog": "12",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "<a type='button' class='btn btn-outline-success notes_bt'>^</a> personal best result at HV",
+      "price": "$28",
+      "friends": "Angelo"
+    },
+    {
+      "date": "2020 - Aug",
+      "club": "Tam O'shanter",
+      "cp": "71",
+      "shots": "114",
+      "score": "+43",
+      "bog": "7",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$53",
+      "friends": ""
+    },
+    {
+      "date": "2020 - Aug",
+      "club": "Carrickmacross",
+      "cp": "54",
+      "shots": "68",
+      "score": "+14",
+      "bog": "9",
+      "par": "4",
+      "brd": "2",
+      "egl": "",
+      "achievement": "<a type='button' class='btn btn-outline-success notes_bt'>^</a> personal best result at CM",
+      "price": "$24",
+      "friends": "Angelo, Mario, Armando"
+    },
+    {
+      "date": "2020 - Aug",
+      "club": "Rolling Hills Golf Club",
+      "cp": "70",
+      "shots": "97",
+      "score": "+27",
+      "bog": "4",
+      "par": "3",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$34",
+      "friends": ""
+    },
+     {
+      "date": "2020 - Aug",
+      "club": "Carrickmacross",
+      "cp": "54",
+      "shots": "75",
+      "score": "+21",
+      "bog": "9",
+      "par": "3",
+      "brd": "1",
+      "egl": "",
+      "achievement": "",
+      "price": "$24",
+      "friends": "Angelo, Mario, Armando"
+    },
+    {
+      "date": "2020 - Aug",
+      "club": "Richmond Hill Golf Club",
+      "cp": "70",
+      "shots": "110",
+      "score": "+40",
+      "bog": "4",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$0.00",
+      "friends": "Tal"
+    },
+    {
+      "date": "2020 - Jul",
+      "club": "Scarlett Woods",
+      "cp": "61",
+      "shots": "91",
+      "score": "+30",
+      "bog": "2",
+      "par": "6",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$38.00",
+      "friends": "Tal"
+    },
+    {
+      "date": "2020 - Jul",
+      "club": "Carrickmacross",
+      "cp": "54",
+      "shots": "82",
+      "score": "+28",
+      "bog": "6",
+      "par": "3",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$24",
+      "friends": "Angelo, Mario, Armando"
+    },
+     {
+      "date": "2020 - Jul",
+      "club": "Scarlett Woods",
+      "cp": "61",
+      "shots": "96",
+      "score": "+35",
+      "bog": "5",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$38.00",
+      "friends": ""
+    },
+    {
+      "date": "2020 - Jul",
+      "club": "Humber Valley",
+      "cp": "70",
+      "shots": "112",
+      "score": "+42",
+      "bog": "3",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$53.00",
+      "friends": ""
+    },
+    {
+      "date": "2020 - Jun",
+      "club": "Braeben",
+      "cp": "72",
+      "shots": "112",
+      "score": "+40",
+      "bog": "3",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$68.50",
+      "friends": ""
+    },
+     {
+      "date": "2020 - Jun",
+      "club": "Indian Wells",
+      "cp": "72",
+      "shots": "115",
+      "score": "+43",
+      "bog": "3",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$70.12",
+      "friends": ""
+    },
+    {
+      "date": "2020 - Jun",
+      "club": "Royal Woodbine",
+      "cp": "71",
+      "shots": "117",
+      "score": "+46",
+      "bog": "4",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$87.56",
+      "friends": ""
+    },
+    {
+      "date": "2020 - Jun",
+      "club": "St. Andrews Valley",
+      "cp": "72",
+      "shots": "117",
+      "score": "+45",
+      "bog": "2",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$101.12",
+      "friends": ""
+    },
+    {
+      "date": "2020 - Jun",
+      "club": "Scarlett Woods",
+      "cp": "61",
+      "shots": "95",
+      "score": "+34",
+      "bog": "10",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$44.50",
+      "friends": ""
+    },
+    {
+      "date": "2019 - Oct",
+      "club": "Richmond Hill Golf Club",
+      "cp": "70",
+      "shots": "106",
+      "score": "+36",
+      "bog": "2",
+      "par": "3",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$53.89",
+      "friends": ""
+    },
+    {
+      "date": "2019 - Sep",
+      "club": "Scarlett Woods",
+      "cp": "61",
+      "shots": "83",
+      "score": "+22",
+      "bog": "10",
+      "par": "3",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$53.50",
+      "friends": ""
+    },
+    {
+      "date": "2019 - Sep",
+      "club": "Uplands Golf",
+      "cp": "70",
+      "shots": "110",
+      "score": "+40",
+      "bog": "4",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$50.50",
+      "friends": ""
+    },
+    {
+      "date": "2019 - Sep",
+      "club": "Scarlett Woods",
+      "cp": "61",
+      "shots": "94",
+      "score": "+33",
+      "bog": "6",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$38.50",
+      "friends": ""
+    },
+    {
+      "date": "2019 - Sep",
+      "club": "Turtle Creek Golf Club",
+      "cp": "70",
+      "shots": "111",
+      "score": "+41",
+      "bog": "2",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$0.00",
+      "friends": "Tyler, Appa, Shaun"
+    },
+    {
+      "date": "2019 - Sep",
+      "club": "Richmond Hill Golf Club",
+      "cp": "70",
+      "shots": "102",
+      "score": "+32",
+      "bog": "6",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$0.00",
+      "friends": "Tal"
+    },
+    {
+      "date": "2019 - Aug",
+      "club": "Scarlett Woods",
+      "cp": "61",
+      "shots": "96",
+      "score": "+35",
+      "bog": "3",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$53.50",
+      "friends": ""
+    },
+    {
+      "date": "2018 - Oct",
+      "club": "Scarlett Woods",
+      "cp": "61",
+      "shots": "91",
+      "score": "+30",
+      "bog": "4",
+      "par": "4",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$36.50",
+      "friends": ""
+    },
+    {
+      "date": "2018 - Sep",
+      "club": "Humber Valley",
+      "cp": "70",
+      "shots": "103",
+      "score": "+33",
+      "bog": "9",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$40.00",
+      "friends": ""
+    },
+    {
+      "date": "2018 - Sep",
+      "club": "Scarlett Woods",
+      "cp": "61",
+      "shots": "79",
+      "score": "+18",
+      "bog": "7",
+      "par": "6",
+      "brd": "",
+      "egl": "",
+      "achievement": "<a type='button' class='btn btn-outline-success notes_bt'>^</a> personal best result at SW",
+      "price": "$36.50",
+      "friends": ""
+    },
+    {
+      "date": "2018 - Sep",
+      "club": "Eagles Nest",
+      "cp": "72",
+      "shots": "104",
+      "score": "+32",
+      "bog": "7",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$135",
+      "friends": ""
+    },
+    {
+      "date": "2018 - Aug",
+      "club": "Scarlett Woods",
+      "cp": "61",
+      "shots": "92",
+      "score": "+31",
+      "bog": "8",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$43",
+      "friends": ""
+    },
+    {
+      "date": "2018 - Aug",
+      "club": "Richmond Hill Golf Club",
+      "cp": "70",
+      "shots": "98",
+      "score": "+28",
+      "bog": "9",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$0.00",
+      "friends": "Tyler"
+    },
+    {
+      "date": "2018 - Aug",
+      "club": "Richmond Hill Golf Club",
+      "cp": "70",
+      "shots": "104",
+      "score": "+34",
+      "bog": "4",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$80",
+      "friends": "Tyler"
+    },
+    {
+      "date": "2018 - Aug",
+      "club": "Scarlett Woods",
+      "cp": "61",
+      "shots": "92",
+      "score": "+31",
+      "bog": "6",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$43.50",
+      "friends": ""
+    },
+    {
+      "date": "2018 - Jul",
+      "club": "Scarlett Woods",
+      "cp": "61",
+      "shots": "99",
+      "score": "+38",
+      "bog": "4",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$52",
+      "friends": ""
+    },
+    {
+      "date": "2017 - Oct",
+      "club": "Carrickmacross",
+      "cp": "54",
+      "shots": "71",
+      "score": "+17",
+      "bog": "7",
+      "par": "6",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$22",
+      "friends": ""
+    },
+    {
+      "date": "2017 - Oct",
+      "club": "Scarlett Woods",
+      "cp": "61",
+      "shots": "90",
+      "score": "+29",
+      "bog": "4",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$29",
+      "friends": "Tal"
+    },
+    {
+      "date": "2017 - Oct",
+      "club": "Richmond Hill Golf Club",
+      "cp": "70",
+      "shots": "116",
+      "score": "+46",
+      "bog": "3",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$54",
+      "friends": ""
+    },
+    {
+      "date": "2017 - Oct",
+      "club": "Scarlett Woods",
+      "cp": "61",
+      "shots": "87",
+      "score": "+26",
+      "bog": "6",
+      "par": "3",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$29",
+      "friends": "Tal"
+    },
+    {
+      "date": "2017 - Sep",
+      "club": "Scarlett Woods",
+      "cp": "61",
+      "shots": "84",
+      "score": "+23",
+      "bog": "5",
+      "par": "2",
+      "brd": "2",
+      "egl": "",
+      "achievement": "<a type='button' class='btn btn-outline-success notes_bt' data-toggle='modal' data-target='#anm'>5</a> Made 2 birdies in 1 game. 1st Birdie was on a short chip",
+      "price": "$29",
+      "friends": "Tal"
+    },
+    {
+      "date": "2017 - Sep",
+      "club": "Dentonia",
+      "cp": "54",
+      "shots": "78",
+      "score": "+24",
+      "bog": "7",
+      "par": "4",
+      "brd": "",
+      "egl": "",
+      "achievement": "<a type='button' class='btn btn-outline-success notes_bt'>^</a> personal best result at DC",
+      "price": "$29",
+      "friends": "Tal"
+    },
+    {
+      "date": "2017 - Sep",
+      "club": "Carrickmacross",
+      "cp": "54",
+      "shots": "80",
+      "score": "+26",
+      "bog": "8",
+      "par": "3",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$22",
+      "friends": "Tal"
+    },
+    {
+      "date": "2017 - Sep",
+      "club": "Carrickmacross",
+      "cp": "54",
+      "shots": "76",
+      "score": "+22",
+      "bog": "8",
+      "par": "3",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$22",
+      "friends": ""
+    },
+    {
+      "date": "2017 - Aug",
+      "club": "Carrickmacross",
+      "cp": "54",
+      "shots": "91",
+      "score": "+37",
+      "bog": "5",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$22",
+      "friends": ""
+    },
+    {
+      "date": "2017 - Aug",
+      "club": "Dentonia",
+      "cp": "54",
+      "shots": "82",
+      "score": "+28",
+      "bog": "6",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$29",
+      "friends": "Tal"
+    },
+    {
+      "date": "2017 - Aug",
+      "club": "Carrickmacross",
+      "cp": "54",
+      "shots": "81",
+      "score": "+27",
+      "bog": "5",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$22",
+      "friends": "Tal"
+    },
+    {
+      "date": "2017 - Aug",
+      "club": "Dentonia",
+      "cp": "54",
+      "shots": "87",
+      "score": "+33",
+      "bog": "2",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$29",
+      "friends": "Tal"
+    },
+    {
+      "date": "2017 - Jul",
+      "club": "Richmond Hill Golf Club",
+      "cp": "70",
+      "shots": "118",
+      "score": "+48",
+      "bog": "1",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$0",
+      "friends": "Tal"
+    },
+    {
+      "date": "2016 - Aug",
+      "club": "Carrickmacross",
+      "cp": "54",
+      "shots": "DNF",
+      "score": "DNF",
+      "bog": "2",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$0",
+      "friends": "Tal"
+    },
+    {
+      "date": "2016 - Aug",
+      "club": "Richmond Hill Golf Club",
+      "cp": "70",
+      "shots": "113",
+      "score": "+43",
+      "bog": "5",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$0",
+      "friends": "Tal"
+    },
+    {
+      "date": "2015 - Oct",
+      "club": "Carrickmacross",
+      "cp": "54",
+      "shots": "80",
+      "score": "+26",
+      "bog": "7",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$23",
+      "friends": "Tal"
+    },
+    {
+      "date": "2015 - Oct",
+      "club": "Richmond Hill Golf Club",
+      "cp": "70",
+      "shots": "100",
+      "score": "+30",
+      "bog": "5",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "<a type='button' class='btn btn-outline-success notes_bt' data-toggle='modal' data-target='#anm'>4</a> Made a 50 feet putt",
+      "price": "$64",
+      "friends": "Tal"
+    },
+    {
+      "date": "2015 - Sep",
+      "club": "Carrickmacross",
+      "cp": "54",
+      "shots": "91",
+      "score": "+37",
+      "bog": "1",
+      "par": "3",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$32",
+      "friends": "Tal"
+    },
+    {
+      "date": "2014 - Aug",
+      "club": "Dentonia",
+      "cp": "54",
+      "shots": "82",
+      "score": "+28",
+      "bog": "5",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$20",
+      "friends": "Tal"
+    },
+    {
+      "date": "2014 - Aug",
+      "club": "Carrickmacross",
+      "cp": "54",
+      "shots": "91",
+      "score": "+37",
+      "bog": "4",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "<a type='button' class='btn btn-outline-success notes_bt' data-toggle='modal' data-target='#anm'>3</a> Played after rain & were the only ones on the course",
+      "price": "$0",
+      "friends": "Tal"
+    },
+    {
+      "date": "2013 - May",
+      "club": "Carrickmacross",
+      "cp": "54",
+      "shots": "99",
+      "score": "+45",
+      "bog": "1",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$21",
+      "friends": "Tal"
+    },
+    {
+      "date": "2012 - Jun",
+      "club": "Carrickmacross",
+      "cp": "54",
+      "shots": "85",
+      "score": "+31",
+      "bog": "7",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$20",
+      "friends": "Tal"
+    },
+    {
+      "date": "2011 - Jun",
+      "club": "Carrickmacross",
+      "cp": "54",
+      "shots": "82",
+      "score": "+28",
+      "bog": "4",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$20",
+      "friends": "Vadim"
+    },
+    {
+      "date": "2010 - Sep",
+      "club": "Carrickmacross",
+      "cp": "54",
+      "shots": "82",
+      "score": "+28",
+      "bog": "3",
+      "par": "3",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$20",
+      "friends": ""
+    },
+    {
+      "date": "2010 - Aug",
+      "club": "Park View Upper",
+      "cp": "71",
+      "shots": "103",
+      "score": "+32",
+      "bog": "3",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "<a type='button' class='btn btn-outline-success notes_bt' data-toggle='modal' data-target='#anm'>2</a> Made a 40 feet putt",
+      "price": "$50",
+      "friends": "Andrei"
+    },
+    {
+      "date": "2010 - Aug",
+      "club": "Carrickmacross",
+      "cp": "54",
+      "shots": "82",
+      "score": "+28",
+      "bog": "8",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$19",
+      "friends": "Tal, Mark"
+    },
+    {
+      "date": "2010 - Aug",
+      "club": "Park View Upper",
+      "cp": "71",
+      "shots": "105",
+      "score": "+34",
+      "bog": "2",
+      "par": "",
+      "brd": "",
+      "egl": "1",
+      "achievement": "<a type='button' class='btn btn-outline-success notes_bt' data-toggle='modal' data-target='#anm'>1</a> 1st Eagle. Made a pitch from 55 Yards",
+      "price": "$50",
+      "friends": "Andrei, Misha"
+    },
+    {
+      "date": "2010 - Jul",
+      "club": "Carrickmacross",
+      "cp": "54",
+      "shots": "88",
+      "score": "+34",
+      "bog": "8",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$12",
+      "friends": "Misha"
+    },
+    {
+      "date": "2010 - Apr",
+      "club": "Carrickmacross",
+      "cp": "54",
+      "shots": "95",
+      "score": "+41",
+      "bog": "4",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$11",
+      "friends": "Andrei"
+    },
+    {
+      "date": "2009 - Aug",
+      "club": "Crest Haven",
+      "cp": "54",
+      "shots": "76",
+      "score": "+22",
+      "bog": "7",
+      "par": "4",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$31",
+      "friends": ""
+    },
+    {
+      "date": "2009 - Jul",
+      "club": "Crest Haven",
+      "cp": "54",
+      "shots": "79",
+      "score": "+25",
+      "bog": "9",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$28",
+      "friends": "Vadim"
+    },
+    {
+      "date": "2009 - Jul",
+      "club": "Crest Haven",
+      "cp": "54",
+      "shots": "79",
+      "score": "+25",
+      "bog": "7",
+      "par": "3",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$31",
+      "friends": "Misha"
+    },
+    {
+      "date": "2009 - Jul",
+      "club": "Crest Haven",
+      "cp": "54",
+      "shots": "80",
+      "score": "+26",
+      "bog": "8",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$23",
+      "friends": "Yura"
+    },
+    {
+      "date": "2009 - Jun",
+      "club": "Crest Haven",
+      "cp": "54",
+      "shots": "77",
+      "score": "+23",
+      "bog": "11",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$31",
+      "friends": "Tal"
+    },
+    {
+      "date": "2009 - Jun",
+      "club": "Crest Haven",
+      "cp": "54",
+      "shots": "84",
+      "score": "+30",
+      "bog": "6",
+      "par": "",
+      "brd": "1",
+      "egl": "",
+      "achievement": "",
+      "price": "$31",
+      "friends": "Tal"
+    },
+    {
+      "date": "2009 - Jun",
+      "club": "Crest Haven",
+      "cp": "54",
+      "shots": "85",
+      "score": "+31",
+      "bog": "6",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$20",
+      "friends": "Vadim"
+    },
+    {
+      "date": "2009 - Jun",
+      "club": "Crest Haven",
+      "cp": "54",
+      "shots": "95",
+      "score": "+41",
+      "bog": "5",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$24",
+      "friends": "Vadim"
+    },
+    {
+      "date": "2008 - Jun",
+      "club": "Park View Valley",
+      "cp": "71",
+      "shots": "DNF",
+      "score": "DNF",
+      "bog": "2",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$42",
+      "friends": "Misha, Yura"
+    },
+    {
+      "date": "2007 - Oct",
+      "club": "Richmond Hill Golf Club",
+      "cp": "70",
+      "shots": "DNF",
+      "score": "DNF",
+      "bog": "3",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$49",
+      "friends": "Yura"
+    },
+    {
+      "date": "2007 - Sep",
+      "club": "Richmond Hill Golf Club",
+      "cp": "70",
+      "shots": "DNF",
+      "score": "DNF",
+      "bog": "2",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$49",
+      "friends": "Yura"
+    },
+    {
+      "date": "2007 - Sep",
+      "club": "Dentonia",
+      "cp": "54",
+      "shots": "DNF",
+      "score": "DNF",
+      "bog": "6",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$19",
+      "friends": "Zhenya, Yura, Misha"
+    },
+    {
+      "date": "2007 - Sep",
+      "club": "Dentonia",
+      "cp": "54",
+      "shots": "96",
+      "score": "+42",
+      "bog": "3",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$19",
+      "friends": "Yura"
+    },
+    {
+      "date": "2007 - Aug",
+      "club": "Dentonia",
+      "cp": "54",
+      "shots": "91",
+      "score": "+37",
+      "bog": "4",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$24",
+      "friends": "Yura, Misha"
+    },
+    {
+      "date": "2007 - Aug",
+      "club": "Shawneeki",
+      "cp": "72",
+      "shots": "DNF",
+      "score": "DNF",
+      "bog": "",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$24",
+      "friends": "Zhenya, Yura, Misha"
+    },
+    {
+      "date": "2007 - Aug",
+      "club": "Crest Haven",
+      "cp": "54",
+      "shots": "84",
+      "score": "+30",
+      "bog": "6",
+      "par": "4",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$30",
+      "friends": "Zhenya, Yura"
+    },
+    {
+      "date": "2007 - Jul",
+      "club": "Crest Haven",
+      "cp": "54",
+      "shots": "82",
+      "score": "+28",
+      "bog": "7",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$28",
+      "friends": "Zhenya, Misha, Norbert, Yura"
+    },
+    {
+      "date": "2007 - Jul",
+      "club": "Crest Haven",
+      "cp": "54",
+      "shots": "92",
+      "score": "+38",
+      "bog": "3",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$28",
+      "friends": "Zhenya"
+    },
+    {
+      "date": "2007 - Jun",
+      "club": "Park View Valley",
+      "cp": "71",
+      "shots": "115",
+      "score": "+44",
+      "bog": "3",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$42",
+      "friends": ""
+    },
+    {
+      "date": "2006 - Sep",
+      "club": "Crest Haven",
+      "cp": "54",
+      "shots": "79",
+      "score": "+25",
+      "bog": "10",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$56",
+      "friends": "Tal"
+    },
+    {
+      "date": "2006 - Sep",
+      "club": "Richmond Hill Golf Club",
+      "cp": "70",
+      "shots": "106",
+      "score": "+36",
+      "bog": "2",
+      "par": "2",
+      "brd": "1",
+      "egl": "",
+      "achievement": "",
+      "price": "$70",
+      "friends": "Shurik"
+    },
+    {
+      "date": "2006 - Sep",
+      "club": "Crest Haven",
+      "cp": "54",
+      "shots": "76",
+      "score": "+22",
+      "bog": "8",
+      "par": "3",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$28",
+      "friends": "Tal"
+    },
+    {
+      "date": "2006 - Aug",
+      "club": "Richmond Hill Golf Club",
+      "cp": "70",
+      "shots": "111",
+      "score": "+41",
+      "bog": "3",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$85",
+      "friends": "Leva"
+    },
+    {
+      "date": "2006 - Jul",
+      "club": "Richmond Hill Golf Club",
+      "cp": "70",
+      "shots": "DNF",
+      "score": "DNF",
+      "bog": "4",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$48",
+      "friends": "Vadim"
+    },
+    {
+      "date": "2006 - Jul",
+      "club": "Richmond Hill Golf Club",
+      "cp": "70",
+      "shots": "100",
+      "score": "+30",
+      "bog": "3",
+      "par": "2",
+      "brd": "1",
+      "egl": "",
+      "achievement": "",
+      "price": "$49",
+      "friends": ""
+    },
+    {
+      "date": "2005 - Sep",
+      "club": "Crest Haven",
+      "cp": "54",
+      "shots": "73",
+      "score": "+19",
+      "bog": "11",
+      "par": "3",
+      "brd": "",
+      "egl": "",
+      "achievement": "<a type='button' class='btn btn-outline-success notes_bt'>^</a> personal best result at CH",
+      "price": "$28",
+      "friends": ""
+    },
+    {
+      "date": "2005 - Sep",
+      "club": "Richmond Hill Golf Club",
+      "cp": "70",
+      "shots": "97",
+      "score": "+27",
+      "bog": "7",
+      "par": "3",
+      "brd": "",
+      "egl": "",
+      "achievement": "<a type='button' class='btn btn-outline-success notes_bt'>^</a> personal best result at RHGC",
+      "price": "$65",
+      "friends": ""
+    },
+    {
+      "date": "2005 - Sep",
+      "club": "Richmond Hill Golf Club",
+      "cp": "70",
+      "shots": "101",
+      "score": "+31",
+      "bog": "6",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$65",
+      "friends": ""
+    },
+    {
+      "date": "2005 - Jul",
+      "club": "Crest Haven",
+      "cp": "54",
+      "shots": "88",
+      "score": "+34",
+      "bog": "6",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$21",
+      "friends": ""
+    },
+    {
+      "date": "2005 - Jul",
+      "club": "Park View Valley",
+      "cp": "71",
+      "shots": "105",
+      "score": "+34",
+      "bog": "3",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$37",
+      "friends": ""
+    },
+    {
+      "date": "2005 - May",
+      "club": "Bloomington",
+      "cp": "72",
+      "shots": "106",
+      "score": "+34",
+      "bog": "4",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$47",
+      "friends": ""
+    },
+    {
+      "date": "2005 - May",
+      "club": "Rhodes Ranch NV",
+      "cp": "72",
+      "shots": "116",
+      "score": "+44",
+      "bog": "3",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$50",
+      "friends": ""
+    },
+    {
+      "date": "2004 - Oct",
+      "club": "Crest Haven",
+      "cp": "54",
+      "shots": "84",
+      "score": "+30",
+      "bog": "9",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$27",
+      "friends": "Alex"
+    },
+    {
+      "date": "2004 - Oct",
+      "club": "Richmond Hill Golf Club ",
+      "cp": "70",
+      "shots": "109",
+      "score": "+39",
+      "bog": "",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$57",
+      "friends": ""
+    },
+    {
+      "date": "2004 - Oct",
+      "club": "Crest Haven",
+      "cp": "54",
+      "shots": "85",
+      "score": "+31",
+      "bog": "7",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$24",
+      "friends": "Zhenya"
+    },
+    {
+      "date": "2004 - Sep",
+      "club": "Crest Haven",
+      "cp": "54",
+      "shots": "83",
+      "score": "+29",
+      "bog": "9",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$28",
+      "friends": ""
+    },
+    {
+      "date": "2004 - Sep",
+      "club": "Crest Haven",
+      "cp": "54",
+      "shots": "88",
+      "score": "+34",
+      "bog": "5",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$28",
+      "friends": ""
+    },
+    {
+      "date": "2004 - Sep",
+      "club": "Park View Upper",
+      "cp": "71",
+      "shots": "114",
+      "score": "+43",
+      "bog": "2",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$70",
+      "friends": ""
+    },
+    {
+      "date": "2004 - Sep",
+      "club": "Park View Valley",
+      "cp": "71",
+      "shots": "121",
+      "score": "+50",
+      "bog": "2",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$55",
+      "friends": ""
+    },
+    {
+      "date": "2004 - Sep",
+      "club": "Bathurst Glen",
+      "cp": "63",
+      "shots": "96",
+      "score": "+33",
+      "bog": "5",
+      "par": "2",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$40",
+      "friends": ""
+    },
+    {
+      "date": "2004 - Sep",
+      "club": "Park View Valley",
+      "cp": "71",
+      "shots": "115",
+      "score": "+44",
+      "bog": "3",
+      "par": "",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$60",
+      "friends": "Leva"
+    }
+  ]
+}]
