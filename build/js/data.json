@@ -604,16 +604,20 @@
     }
   ],
   "page7": [{
+      "date": "2021 - Now",
+      "fulltime": "Front-end Developer at <a href='https://www.scotiabank.com/ca/en/personal.html' target='_blank'>Scotiabank</a> - contract with <a href='https://www.proviso.ca/' target='_blank'>ProViso</a>"
+    },
+    {
       "date": "2009 - 2021",
       "fulltime": "Sr. Digital Developer Lead at <a href='http://www.rogers.com' target='_blank'>Rogers</a>"
     },
     {
       "date": "2009 - 2009",
-      "fulltime": "Front-end Developer at <a href='http://www.rogerssportsandmedia.com' target='_blank'>Rogers Media</a> - via Contract with <a href='http://www.infotek-consulting.com' target='_blank'>InfoTek</a>"
+      "fulltime": "Front-end Developer at <a href='http://www.rogerssportsandmedia.com' target='_blank'>Rogers Media</a> - contract with <a href='http://www.infotek-consulting.com' target='_blank'>InfoTek</a>"
     },
     {
       "date": "2008 - 2009",
-      "fulltime": "Front-end Developer at <a href='https://www.canadianbusiness.com/' target='_blank'>Canadian Business</a> - via Contract with <a href='http://www.infotek-consulting.com' target='_blank'>InfoTek</a>"
+      "fulltime": "Front-end Developer at <a href='https://www.canadianbusiness.com/' target='_blank'>Canadian Business</a> - contract with <a href='http://www.infotek-consulting.com' target='_blank'>InfoTek</a>"
     },
     {
       "date": "2008 - 2008",
@@ -621,7 +625,7 @@
     },
     {
       "date": "2008 - 2008",
-      "fulltime": "Front-end Developer at <a href='http://www.mto.gov.on.ca/english/' target='_blank'>Ministry of Transportation</a> - via Contract with <a href='http://www.digitalembrace.com' target='_blank'>Digital Embrace</a>"
+      "fulltime": "Front-end Developer at <a href='http://www.mto.gov.on.ca/english/' target='_blank'>Ministry of Transportation</a> - contract with <a href='http://www.digitalembrace.com' target='_blank'>Digital Embrace</a>"
     },
     {
       "date": "2007 - 2008",
