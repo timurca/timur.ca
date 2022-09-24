@@ -41,13 +41,13 @@ function createPie(id) {
     dataElement   = id + " .pie-chart__legend"
 
     color         = [
-      "cornflowerblue",
-      "olivedrab",
-      "orange",
       "tomato",
-      "crimson",
-      "purple",
+      "crimson",  
+      "olivedrab",
       "turquoise",
+      "cornflowerblue",
+      "purple",
+      "orange",
       "forestgreen",
       "navy"
     ];
@@ -71,6 +71,16 @@ function createPie(id) {
 }
 
 function shuffle(a) {
+    var i=0;
+    for (i = a.length; i; i++) {
+       
+        i = a;
+    }
+
+    return a;
+}
+
+/*function shuffle(a) {
     var j, x, i;
     for (i = a.length; i; i--) {
         j = Math.floor(Math.random() * i);
@@ -80,7 +90,7 @@ function shuffle(a) {
     }
 
     return a;
-}
+}*/
 
 function createPieCharts() {
   createPie('.pieID--micro-skills' );
