@@ -101,7 +101,7 @@
       "place": "Prague, Czech Republic"
     },
     {
-      "date": "2007 - May",
+      "date": "2008 - May",
       "place": "Munich, Germany"
     },
     {
@@ -189,7 +189,7 @@
     {
       "date": "2016 - Sep",
       "label": "favourite videos",
-      "item": "Anthony Alicea: JavaScript - Understanding the Weird Parts <a href='https://www.udemy.com/understand-javascript/' target='_blank'>Videos</a> | <a href='https://github.com/timurca/learning-JS' target='_blank'>Notes</a> | <a href='http://javascriptissexy.com/12-simple-yet-powerful-javascript-tips/' target='_blank'>Tips</a>"
+      "item": "Anthony Alicea: JavaScript - Understanding the Weird Parts <a href='https://www.udemy.com/understand-javascript/' target='_blank'>Videos</a> | <a href='https://github.com/timurca/learning-JS' target='_blank'>Notes</a> | <a href='https://javascriptissexy.com/12-simple-yet-powerful-javascript-tips/' target='_blank'>Tips</a>"
     },
     {
       "date": "2016 - Mar",
@@ -199,12 +199,12 @@
     {
       "date": "2013 - Aug",
       "label": "getting started",
-      "item": "Ilya Kantor <a href='http://javascript.info/' target='_blank'>Modern JavaScript Tutorials</a>"
+      "item": "Ilya Kantor <a href='https://javascript.info/' target='_blank'>Modern JavaScript Tutorials</a>"
     },
     {
       "date": "2013 - Jul",
       "label": "skeleton",
-      "item": "Responsive examples: <a href='http://bradfrost.github.io/this-is-responsive/patterns.html' target='_blank'>Patterns & Modules</a>"
+      "item": "Responsive examples: <a href='https://bradfrost.github.io/this-is-responsive/patterns.html' target='_blank'>Patterns & Modules</a>"
     },
     {
       "date": "2013 - Jun",
@@ -229,7 +229,7 @@
     {
       "date": "2012 - Aug",
       "label": "code egs",
-      "item": "Cheat Sheets Collection <a href='http://www.overapi.com/' target='_blank'>OverAPI.com collecting all the cheat sheets</a>"
+      "item": "Cheat Sheets Collection <a href='https://www.overapi.com/' target='_blank'>OverAPI.com collecting all the cheat sheets</a>"
     },
     {
       "date": "2012 - Jun",
@@ -239,12 +239,12 @@
     {
       "date": "2012 - Jul",
       "label": "getting started",
-      "item": "jQuery Javascript Library: <a href='http://api.jquery.com/' target='_blank'>jQuery Documentation</a>"
+      "item": "jQuery Javascript Library: <a href='https://api.jquery.com/' target='_blank'>jQuery Documentation</a>"
     },
     {
       "date": "2012 - Jun",
       "label": "inspiring",
-      "item": "Rebecca Murphey: <a href='http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers' target='_blank'>A Baseline for Front-End Developers</a>"
+      "item": "Rebecca Murphey: <a href='https://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers' target='_blank'>A Baseline for Front-End Developers</a>"
     },
     {
       "date": "2011 - Oct",
@@ -265,214 +265,217 @@
     {
       "date": "ongoing",
       "label": "jsFiddle",
-      "item": "jsFiddle <a href='http://jsfiddle.net/user/timur/' target='_blank'>Examples</a>"
+      "item": "jsFiddle <a href='https://jsfiddle.net/user/timur/' target='_blank'>Examples</a>"
     },
     {
       "date": "2013 - Jul",
       "label": "jquery",
-      "item": "R.com: switch/case <a href='http://jsfiddle.net/timur/uPfJ9/' target='_blank'>jsFiddle</a>"
+      "item": "R.com: switch/case <a href='https://jsfiddle.net/timur/uPfJ9/' target='_blank'>jsFiddle</a>"
     },
     {
       "date": "2013 - Jul",
       "label": "css",
-      "item": "Logo Twerking <a href='http://www.timur.ca/ZZZ/june/html5/tada.html' target='_blank'>Tada</a>"
+      "item": "Logo Twerking <a href='https://www.timur.ca/ZZZ/june/html5/tada.html' target='_blank'>Tada</a>"
     },
     {
       "date": "2013 - Jun",
       "label": "plugin",
-      "item": "Search Plugin: <a href='http://www.timur.ca/ZZZ/june/js101/json/V3.json/' target='_blank'>table</a>, <a href='http://www.timur.ca/ZZZ/june/js101/json/V3.json/li.html' target='_blank'>li List</a>"
+      "item": "Search Plugin: <a href='https://www.timur.ca/ZZZ/june/js101/json/V3.json/' target='_blank'>table</a>, <a href='https://www.timur.ca/ZZZ/june/js101/json/V3.json/li.html' target='_blank'>li List</a>"
     },
     {
       "date": "2013 - Jun",
       "label": "jquery",
-      "item": "jsFiddle: <a href='http://jsfiddle.net/vvnj5/' target='_blank'>JSON - isolating hw pricing</a>"
+      "item": "jsFiddle: <a href='https://jsfiddle.net/vvnj5/' target='_blank'>JSON - isolating hw pricing</a>"
     },
     {
       "date": "2013 - May",
       "label": "json",
-      "item": "JSON Practice: <a href='http://www.timur.ca/ZZZ/web/june/js101/json/' target='_blank'>link</a>"
+      "item": "JSON Practice: <a href='https://www.timur.ca/ZZZ/web/june/js101/json/' target='_blank'>link</a>"
     },
     {
       "date": "2013 - May",
       "label": "jquery",
-      "item": "jsFiddle: <a href='http://jsfiddle.net/uQh25/' target='_blank'>IMG hover()</a>"
+      "item": "jsFiddle: <a href='https://jsfiddle.net/uQh25/' target='_blank'>IMG hover()</a>"
     },
     {
       "date": "2013 - Apr",
       "label": "jquery",
-      "item": "jsfiddle <a href='http://jsfiddle.net/Z8LhT/' target='_blank'>setTimeout()</a>"
+      "item": "jsfiddle <a href='https://jsfiddle.net/Z8LhT/' target='_blank'>setTimeout()</a>"
     },
     {
       "date": "2013 - Mar",
       "label": "jquery",
-      "item": "Find a string: R.com: <a href='http://jsfiddle.net/timur/mRCcp/' target='_blank'>eg1</a>, <a href='http://jsfiddle.net/timur/Htv3J/' target='_blank'>eg2</a>, <a href='http://jsfiddle.net/a9Lqb/' target='_blank'>eg3</a>, <a href='http://jsfiddle.net/a9Lqb/' target='_blank'>eg4</a>, <a href='http://jsfiddle.net/timur/vYehC/' target='_blank'>eg5</a>"
+      "item": "Find a string: R.com: <a href='https://jsfiddle.net/timur/mRCcp/' target='_blank'>eg1</a>, <a href='https://jsfiddle.net/timur/Htv3J/' target='_blank'>eg2</a>, <a href='https://jsfiddle.net/a9Lqb/' target='_blank'>eg3</a>, <a href='https://jsfiddle.net/a9Lqb/' target='_blank'>eg4</a>, <a href='https://jsfiddle.net/timur/vYehC/' target='_blank'>eg5</a>"
     },
     {
       "date": "2013 - Mar",
       "label": "jquery",
-      "item": "Targeting: R.com: <a href='http://jsfiddle.net/timur/edVrx/' target='_blank'>eg1</a>, <a href='http://jsfiddle.net/timur/psNFD/' target='_blank'>eg2</a>, <a href='http://jsfiddle.net/timur/dq99L/' target='_blank'>eg3 URL + dropdown</a>, <a href='http://jsfiddle.net/timur/WRREt/' target='_blank'>eg4</a> | <a href='http://jsfiddle.net/timur/WRREt/5/' target='_blank'>eg5</a>"
+      "item": "Targeting: R.com: <a href='https://jsfiddle.net/timur/edVrx/' target='_blank'>eg1</a>, <a href='https://jsfiddle.net/timur/psNFD/' target='_blank'>eg2</a>, <a href='https://jsfiddle.net/timur/dq99L/' target='_blank'>eg3 URL + dropdown</a>, <a href='https://jsfiddle.net/timur/WRREt/' target='_blank'>eg4</a> | <a href='https://jsfiddle.net/timur/WRREt/5/' target='_blank'>eg5</a>"
     },
     {
       "date": "2013 - Feb",
       "label": "jquery",
-      "item": "Re-size a video embed <a href='http://jsfiddle.net/timur/HhGB9/' target='_blank'>jsfiddle</a>"
+      "item": "Re-size a video embed <a href='https://jsfiddle.net/timur/HhGB9/' target='_blank'>jsfiddle</a>"
     },
     {
       "date": "2012 - Oct",
       "label": "jquery",
-      "item": "Redirect: Get window URL; split string by & and get last instance to generate an auto click <a href='http://jsfiddle.net/timur/aeGaL/' target='_blank'>jsFiddle</a>"
+      "item": "Redirect: Get window URL; split string by & and get last instance to generate an auto click <a href='https://jsfiddle.net/timur/aeGaL/' target='_blank'>jsFiddle</a>"
     },
     {
       "date": "2012 - Oct",
       "label": "jquery",
-      "item": "Image swap on R.com: <a href='http://jsfiddle.net/timur/rRzBN/' target='_blank'>v1</a>, <a href='http://jsfiddle.net/timur/rRzBN/1/' target='_blank'>v2 + disabling mouseover</a>, <a href='http://jsfiddle.net/timur/rRzBN/2/' target='_blank'>v3 + adding a new mouseover</a>, <a href='http://jsfiddle.net/timur/rRzBN/3/' target='_blank'>v4 production code</a>"
+      "item": "Image swap on R.com: <a href='https://jsfiddle.net/timur/rRzBN/' target='_blank'>v1</a>, <a href='https://jsfiddle.net/timur/rRzBN/1/' target='_blank'>v2 + disabling mouseover</a>, <a href='https://jsfiddle.net/timur/rRzBN/2/' target='_blank'>v3 + adding a new mouseover</a>, <a href='https://jsfiddle.net/timur/rRzBN/3/' target='_blank'>v4 production code</a>"
     },
     {
       "date": "2012 - Jul",
       "label": "jquery",
-      "item": "jQuery Templates: <a href='http://www.timur.ca/ZZZ/june/js101/templates/templates-01.html' target='_blank'>eg 1: not a template</a>, <a href='http://www.timur.ca/ZZZ/june/js101/templates/templates-02.html' target='_blank'>eg 2: template</a>, <a href='http://www.timur.ca/ZZZ/june/js101/templates/templates-03.html' target='_blank'>eg 3: template /w auto-iteration</a>, <a href='http://www.timur.ca/ZZZ/june/js101/templates/templates-04.html' target='_blank'>eg 4: template inside the HTML</a>"
+      "item": "jQuery Templates: <a href='https://www.timur.ca/ZZZ/june/js101/templates/templates-01.html' target='_blank'>eg 1: not a template</a>, <a href='https://www.timur.ca/ZZZ/june/js101/templates/templates-02.html' target='_blank'>eg 2: template</a>, <a href='https://www.timur.ca/ZZZ/june/js101/templates/templates-03.html' target='_blank'>eg 3: template /w auto-iteration</a>, <a href='https://www.timur.ca/ZZZ/june/js101/templates/templates-04.html' target='_blank'>eg 4: template inside the HTML</a>"
     },
     {
       "date": "2012 - Jul",
       "label": "jquery",
-      "item": "Web Storage API: <a href='http://www.timur.ca/ZZZ/june/html5/web-storage-api.html' target='_blank'>Single</a>, <a href='http://www.timur.ca/ZZZ/june/html5/web-storage-api-2.html' target='_blank'>Multiple</a>, <a href='http://www.timur.ca/ZZZ/june/html5/web-storage-api-3.html' target='_blank'>jQuery ver</a>"
+      "item": "Web Storage API: <a href='https://www.timur.ca/ZZZ/june/html5/web-storage-api.html' target='_blank'>Single</a>, <a href='https://www.timur.ca/ZZZ/june/html5/web-storage-api-2.html' target='_blank'>Multiple</a>, <a href='https://www.timur.ca/ZZZ/june/html5/web-storage-api-3.html' target='_blank'>jQuery ver</a>"
     },
     {
       "date": "2012 - Jul",
       "label": "css,jquery",
-      "item": "Navigation Nav: <a href='http://jsfiddle.net/timur/5U4da/' target='_blank'>Horizontal eg</a>, <a href='http://jsfiddle.net/timur/fPs8m/' target='_blank'>Vertical eg</a>, <a href='http://jsfiddle.net/McRvC/2/' target='_blank'>Horizontal /tabs </a>, <a href='http://jsfiddle.net/timur/McRvC/1/' target='_blank'>Vertical /tabs</a>"
+      "item": "Navigation Nav: <a href='https://jsfiddle.net/timur/5U4da/' target='_blank'>Horizontal eg</a>, <a href='https://jsfiddle.net/timur/fPs8m/' target='_blank'>Vertical eg</a>, <a href='https://jsfiddle.net/McRvC/2/' target='_blank'>Horizontal /tabs </a>, <a href='https://jsfiddle.net/timur/McRvC/1/' target='_blank'>Vertical /tabs</a>"
     },
     {
       "date": "2012 - Jul",
       "label": "css",
-      "item": "Transformations types: <a href='http://www.timur.ca/ZZZ/june/html5/transformation.html' target='_blank'>Samples</a>"
+      "item": "Transformations types: <a href='https://www.timur.ca/ZZZ/june/html5/transformation.html' target='_blank'>Samples</a>"
     },
     {
       "date": "2012 - Jul",
       "label": "js",
-      "item": "js functions: <a href='http://www.timur.ca/ZZZ/june/js101/functions.html' target='_blank'>custom functions, /w params, /w multiple params, /w return, annonymous, self executed</a>"
+      "item": "js functions: <a href='https://www.timur.ca/ZZZ/june/js101/functions.html' target='_blank'>custom functions, /w params, /w multiple params, /w return, annonymous, self executed</a>"
     },
     {
       "date": "2012 - Jun",
       "label": "jquery",
-      "item": "Toggle a function <a href='http://www.timur.ca/ZZZ/june/js101/toggle-a-function.html' target='_blank'>eg</a>"
+      "item": "Toggle a function <a href='https://www.timur.ca/ZZZ/june/js101/toggle-a-function.html' target='_blank'>eg</a>"
     },
     {
       "date": "2012 - Jun",
       "label": "css,jquery",
-      "item": "Bear: Moving a character <a href='http://www.timur.ca/ZZZ/june/js101/bear/v1.html' target='_blank'>v1</a>, <a href='http://www.timur.ca/ZZZ/june/js101/bear/v2.html' target='_blank'>Beta</a>"
+      "item": "Bear: Moving a character <a href='https://www.timur.ca/ZZZ/june/js101/bear/v1.html' target='_blank'>v1</a>, <a href='https://www.timur.ca/ZZZ/june/js101/bear/v2.html' target='_blank'>Beta</a>"
     },
     {
       "date": "2012 - Jun",
       "label": "js",
-      "item": "js fundamentals: <a href='http://www.timur.ca/ZZZ/june/js101/arrays-objects-loops.html' target='_blank'>Loops, Arrays, Objects</a>"
+      "item": "js fundamentals: <a href='https://www.timur.ca/ZZZ/june/js101/arrays-objects-loops.html' target='_blank'>Loops, Arrays, Objects</a>"
     },
     {
       "date": "2012 - Jun",
       "label": "js",
-      "item": "Paul Irish: <a href='http://www.timur.ca/ZZZ/june/js101/setTimeout.html' target='_blank'>How to correctly execute a function via loop</a>"
+      "item": "Paul Irish: <a href='https://www.timur.ca/ZZZ/june/js101/setTimeout.html' target='_blank'>How to correctly execute a function via loop</a>"
     },
     {
       "date": "2012 - May",
       "label": "css,html,jquery",
-      "item": "jsFiddle: <a href='http://jsfiddle.net/timur/vcNHN/1/' target='_blank'>Slider on a div</a> as on the chrome store, <a href='http://jsfiddle.net/timur/vcNHN/3/' target='_blank'>Slider on a multiple divs</a>, <a href='http://www.webforward.ca/code/googleChromeStoreDemo/gallery.html' target='_blank'>beta eg.</a>"
+      "item": "jsFiddle: <a href='https://jsfiddle.net/timur/vcNHN/1/' target='_blank'>Slider on a div</a> as on the chrome store, <a href='https://jsfiddle.net/timur/vcNHN/3/' target='_blank'>Slider on a multiple divs</a>, <a href='https://www.webforward.ca/code/googleChromeStoreDemo/gallery.html' target='_blank'>beta eg.</a>"
     },
     {
       "date": "2012 - May",
       "label": "json",
-      "item": "JSON: <a href='http://www.webforward.ca/code/JSON/' target='_blank'>Overview</a>, <a href='http://www.webforward.ca/code/JSON/v1.html' target='_blank'>eg. 1</a>, <a href='http://www.webforward.ca/code/JSON/v2.html' target='_blank'>eg. 2</a>"
+      "item": "JSON: <a href='https://www.webforward.ca/code/JSON/' target='_blank'>Overview</a>, <a href='https://www.webforward.ca/code/JSON/v1.html' target='_blank'>eg. 1</a>, <a href='https://www.webforward.ca/code/JSON/v2.html' target='_blank'>eg. 2</a>"
     },
     {
       "date": "2012 - Feb",
       "label": "jquery",
-      "item": "jsFiddle <a href='http://jsfiddle.net/timur/NNxw4/' target='_blank'>Count elements</a>, <a href='http://jsfiddle.net/timur/47a7A/' target='_blank'>Count character remaining in a textarea</a>, <a href='http://jsfiddle.net/timur/DUrPp/' target='_blank'>minlenght of characters - form eg</a>"
+      "item": "jsFiddle <a href='https://jsfiddle.net/timur/NNxw4/' target='_blank'>Count elements</a>, <a href='https://jsfiddle.net/timur/47a7A/' target='_blank'>Count character remaining in a textarea</a>, <a href='https://jsfiddle.net/timur/DUrPp/' target='_blank'>minlenght of characters - form eg</a>"
     },
     {
       "date": "2012 - Feb",
       "label": "jquery",
-      "item": "jsFiddle <a href='http://jsfiddle.net/timur/bMfdD/' target='_blank'>Toggle</a>, <a href='http://jsfiddle.net/timur/bMfdD/6/' target='_blank'>slideDown/slideUp</a>, <a href='http://jsfiddle.net/timur/bMfdD/3/' target='_blank'>.focus</a>"
+      "item": "jsFiddle <a href='https://jsfiddle.net/timur/bMfdD/' target='_blank'>Toggle</a>, <a href='https://jsfiddle.net/timur/bMfdD/6/' target='_blank'>slideDown/slideUp</a>, <a href='https://jsfiddle.net/timur/bMfdD/3/' target='_blank'>.focus</a>"
     },
     {
       "date": "2012 - Feb",
       "label": "jquery",
-      "item": "Shuffle: <a href='http://jsfiddle.net/bAynQ/' target='_blank'>ul/li, div, array eg</a>"
+      "item": "Shuffle: <a href='https://jsfiddle.net/bAynQ/' target='_blank'>ul/li, div, array eg</a>"
     },
     {
       "date": "2012 - Feb",
       "label": "jquery",
-      "item": "Animate: <a href='http://jsfiddle.net/timur/CAErp/' target='_blank'>eg1</a>, <a href='http://jsfiddle.net/timur/pArSL/5/' target='_blank'>eg2</a>, <a href='http://jsfiddle.net/timur/DeLTQ/3/' target='_blank'>eg3 fadeIn</a>"
+      "item": "Animate: <a href='https://jsfiddle.net/timur/CAErp/' target='_blank'>eg1</a>, <a href='https://jsfiddle.net/timur/pArSL/5/' target='_blank'>eg2</a>, <a href='https://jsfiddle.net/timur/DeLTQ/3/' target='_blank'>eg3 fadeIn</a>"
     },
     {
       "date": "2011 - Dec",
       "label": "css,html",
-      "item": "Layout: <a href='http://www.timur.ca/ZZZ/june/html5/flexible-box-model.html' target='_blank'>Flexible Box Model</a>"
+      "item": "Layout: <a href='https://www.timur.ca/ZZZ/june/html5/flexible-box-model.html' target='_blank'>Flexible Box Model</a>"
     }
   ],
   "page5": [{
       "date": "2021 - Jan",
-      "freelance": "Web Design & Development for <a href='http://www.wtkcat.com' target='_blank'>White Tiger King</a>"
+      "freelance": "Web Design & Development for <a href='https://www.mrcat.ca' target='_blank'>our cat</a>"
+    },{
+      "date": "2020 - Oct",
+      "freelance": "Web Development for <a href='https://www.kszphotos.com' target='_blank'>Kate sZatmari</a>"
     },{
       "date": "2017 - Sep",
-      "freelance": "Web Design & Development for <a href='http://www.ochakovsky.ca' target='_blank'>Semion Ochakovsky</a>"
+      "freelance": "Web Design & Development for <a href='https://www.ochakovsky.ca' target='_blank'>Semion Ochakovsky</a>"
     },
     {
       "date": "2011 - Dec",
-      "freelance": "Web Design & Development for <a href='http://www.webforward.ca/MyProjects/webforward/prototypes/FLPSAM/Original/index.html' target='_blank'>FLP Sam</a>"
+      "freelance": "Web Design & Development for <a href='https://www.webforward.ca/MyProjects/webforward/prototypes/FLPSAM/Original/index.html' target='_blank'>FLP Sam</a>"
     },
     {
       "date": "2011 - Nov",
-      "freelance": "Graphic Design for <a href='http://www.webforward.ca/prototypes/b&r_machines/homev3.html' target='_blank'>B&R Machines</a>"
+      "freelance": "Graphic Design for <a href='https://www.webforward.ca/prototypes/b&r_machines/homev3.html' target='_blank'>B&R Machines</a>"
     },
     {
       "date": "2011 - Jun",
-      "freelance": "Graphic Design for <a href='http://www.webforward.ca/prototypes/annonymus/ver1.html' target='_blank'>Renown</a>"
+      "freelance": "Graphic Design for <a href='https://www.webforward.ca/prototypes/annonymus/ver1.html' target='_blank'>Renown</a>"
     },
     {
       "date": "2011 - May",
-      "freelance": "Graphic Design for <a href='http://www.webforward.ca/MyProjects/webforward/prototypes/envirocan/ver5.html' target='_blank'>ACG Technology</a>"
+      "freelance": "Graphic Design for <a href='https://www.webforward.ca/MyProjects/webforward/prototypes/envirocan/ver5.html' target='_blank'>ACG Technology</a>"
     },
     {
       "date": "2011 - Apr",
-      "freelance": "Graphic Design for <a href='http://www.webforward.ca/MyProjects/webforward/prototypes/weltman/main1.html' target='_blank'>Weltman, Bernstein</a>"
+      "freelance": "Graphic Design for <a href='https://www.webforward.ca/MyProjects/webforward/prototypes/weltman/main1.html' target='_blank'>Weltman, Bernstein</a>"
     },
     {
       "date": "2011 - Mar",
-      "freelance": "Graphic Design & Development for <a href='http://www.webforward.ca/MyProjects/webforward/prototypes/billiards/main1.html' target='_blank'>Billiard Depot</a>"
+      "freelance": "Graphic Design & Development for <a href='https://www.webforward.ca/MyProjects/webforward/prototypes/billiards/main1.html' target='_blank'>Billiard Depot</a>"
     },
     {
       "date": "2010 - Dec",
-      "freelance": "Graphic Design for <a href='http://www.webforward.ca/MyProjects/webforward/prototypes/loansite/main4.html' target='_blank'>Top Canadian Mortgages</a>"
+      "freelance": "Graphic Design for <a href='https://www.webforward.ca/MyProjects/webforward/prototypes/loansite/main4.html' target='_blank'>Top Canadian Mortgages</a>"
     },
     {
       "date": "2010 - Sep",
-      "freelance": "Graphic Design for <a href='http://www.webforward.ca/MyProjects/webforward/prototypes/lafert/v4.html' target='_blank'>Lafert Metric Motors</a>"
+      "freelance": "Graphic Design for <a href='https://www.webforward.ca/MyProjects/webforward/prototypes/lafert/v4.html' target='_blank'>Lafert Metric Motors</a>"
     },
     {
       "date": "2010 - Apr",
-      "freelance": "Graphic Design & Development for <a href='http://www.webforward.ca/MyProjects/webforward/prototypes/sallylian/web/myphpPhase2/index.php' target='_blank'>Sally Lian</a>"
+      "freelance": "Graphic Design & Development for <a href='https://www.webforward.ca/MyProjects/webforward/prototypes/sallylian/web/myphpPhase2/index.php' target='_blank'>Sally Lian</a>"
     },
     {
       "date": "2009 - Dec",
-      "freelance": "Website for <a href='http://web.archive.org/web/20110403040232/http://www.scrapjunkcars.com/' target='_blank'>Scrap Junk Cars</a>"
+      "freelance": "Website for <a href='https://www.webforward.ca/i/portfolio/printscreen-scrap-junk-cars.jpg' target='_blank'>Scrap Junk Cars</a>"
     },
     {
       "date": "2009 - Jan",
-      "freelance": "Web Design & Development for <a href='http://www.deltamovers.ca/' target='_blank'>Delta Movers</a>"
+      "freelance": "Web Design & Development for <a href='https://www.webforward.ca/portfolio/delta-movers/' target='_blank'>Delta Movers</a>"
     },
     {
       "date": "2008 - Mar",
-      "freelance": "Web Design & Development for <a href='http://www.alphamovers.ca/' target='_blank'>Alpha Movers</a>"
+      "freelance": "Web Design & Development for <a href='https://www.alphamovers.ca/' target='_blank'>Alpha Movers</a>"
     },
     {
       "date": "2006 - Jul",
-      "freelance": "Flash Development for <a href='http://tochakov.powweb.com/zzzmisc/xxx-offline-sites/bb/blush.html' target='_blank'>Blush Boutique</a>"
+      "freelance": "Flash Development for Blush Boutique"
     }
   ],
   "page6": [
     {
       "date": "2020 - Nov",
       "label": "project",
-      "legacy": "<a href='http://timur.ca/nba' target='_blank'>timur.ca/nba</a> - NBA Playoffs History"
+      "legacy": "<a href='https://www.timur.ca/nba' target='_blank'>timur.ca/nba</a> - NBA Playoffs History"
     },
     {
       "date": "2017 - Oct",
@@ -481,166 +484,197 @@
     },{
       "date": "2016 - Jan",
       "label": "resume",
-      "legacy": "<a href='http://www.timur.ca/resume' target='_blank'>timur.ca/resume</a> - Re-designed my online resume <em>(ver. 3)</em>"
+      "legacy": "<a href='https://www.timur.ca/resume' target='_blank'>timur.ca/resume</a> - Re-designed my online resume <em>(ver. 3)</em>"
     },{
       "date": "2013 - May",
       "label": "project",
-      "legacy": "<a href='http://www.ballwinners.com/seasons/baseball/2013/' target='_blank'>ballwinners.com/baseball</a> - Then lastly for MLB."
+      "legacy": "<a href='https://www.ballwinners.com/seasons/baseball/2013/' target='_blank'>ballwinners.com/baseball</a> - Then lastly for MLB."
     },
     {
       "date": "2013 - Mar",
       "label": "project",
-      "legacy": "<a href='http://www.ballwinners.com/seasons/hockey/2013/' target='_blank'>ballwinners.com/hockey</a> - A yead after launching ballwinners for NBA, I decided to do the same for the NHL."
+      "legacy": "<a href='https://www.ballwinners.com/seasons/hockey/2013/' target='_blank'>ballwinners.com/hockey</a> - A yead after launching ballwinners for NBA, I decided to do the same for the NHL."
     },
     {
       "date": "2012 - Oct",
       "label": "project",
-      "legacy": "<a href='http://www.ballwinners.com/seasons/nba/2012-13/' target='_blank'>ballwinners.com</a> - This was my most popular project supporting hundreds of users. It was a NBA reality league where users could track & get ranked based on their NBA game pick predictions."
+      "legacy": "<a href='https://www.ballwinners.com/seasons/nba/2012-13/' target='_blank'>ballwinners.com</a> - This was my most popular project supporting hundreds of users. It was a NBA reality league where users could track & get ranked based on their NBA game pick predictions."
     },
     {
       "date": "2012 - Aug",
       "label": "timur.ca",
-      "legacy": "Re-designed timur.ca <em>(ver. 6)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v6.png' target='_blank'>exhibit</a>"
+      "legacy": "Re-designed timur.ca <em>(ver. 6)</em> <a href='https://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v6.png' target='_blank'>exhibit</a>"
     },
     {
       "date": "2012 - Jan",
       "label": "timur.ca",
-      "legacy": "Re-designed timur.ca <em>(ver. 5)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v5.png' target='_blank'>exhibit</a>"
+      "legacy": "Re-designed timur.ca <em>(ver. 5)</em> <a href='https://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v5.png' target='_blank'>exhibit</a>"
     },
     {
       "date": "2011 - Nov",
       "label": "project",
-      "legacy": "<a href='http://web.archive.org/web/20120419071447/http://www.dmozin.com/' target='_blank'>dmozin.com</a> - I was learning the basics of php and hence this project."
+      "legacy": "<a href='https://web.archive.org/web/20120419071447/https://www.dmozin.com/' target='_blank'>dmozin.com</a> - I was learning the basics of php and hence this project."
     },
     {
       "date": "2011 - Jun",
       "label": "project",
-      "legacy": "<a href='http://www.webforward.ca/MyProjects/webforward/prototypes/therealtors/web/profile.shtml' target='_blank'>therealtors.net</a> - The real estate field was always appealing to me and after buying this domain, I went to work and built a social media portal for real estate professionals but I was advised to shut it down.. If only that I knew that &#8220;realtor&#8221; was a trademark word; would've saved a lot of effort."
+      "legacy": "<a href='https://www.webforward.ca/MyProjects/webforward/prototypes/therealtors/web/profile.shtml' target='_blank'>therealtors.net</a> - The real estate field was always appealing to me and after buying this domain, I went to work and built a social media portal for real estate professionals but I was advised to shut it down.. If only that I knew that &#8220;realtor&#8221; was a trademark word; would've saved a lot of effort."
     },
     {
       "date": "2011 - Feb",
       "label": "timur.ca",
-      "legacy": "Re-designed timur.ca <em>(ver. 4)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v4.png' target='_blank'>exhibit</a>"
+      "legacy": "Re-designed timur.ca <em>(ver. 4)</em> <a href='https://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v4.png' target='_blank'>exhibit</a>"
     },
     {
       "date": "2009 - Sep",
       "label": "resume",
-      "legacy": "Re-designed my online resume. <em>(ver. 2)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/resume-v2.png' target='_blank'>exhibit</a>"
+      "legacy": "Re-designed my online resume. <em>(ver. 2)</em> <a href='https://www.timur.ca/ZZZ/websitesArchieve/screenshots/resume-v2.png' target='_blank'>exhibit</a>"
     },
     {
       "date": "2008 - Aug",
       "label": "project",
-      "legacy": "<a href='http://www.anews.ca' target='_blank'>anews.ca</a> - I was messing around with wordpress and eventually turned this domain into a blog."
+      "legacy": "<a href='https://www.webforward.ca/i/portfolio/printscreen-anews.png' target='_blank'>anews.ca</a> - I was messing around with wordpress and eventually turned this domain into a blog."
     },
     {
       "date": "2008 - Jun",
       "label": "freelance",
-      "legacy": "<a href='http://www.webforward.ca' target='_blank'>webforward.ca</a> - &#8220;take 5&#8221; was a keeper as I finally found a domain name i liked for my freelancing site."
+      "legacy": "<a href='https://www.webforward.ca/our-clients/' target='_blank'>webforward.ca</a> - &#8220;take 5&#8221; was a keeper as I finally found a domain name i liked for my freelancing site."
     },
     {
       "date": "2008 - Feb",
       "label": "freelance",
-      "legacy": "<a href='http://tochakov.powweb.com/zzzmisc/xxx-offline-sites/wxx_web-advisors/web/index.shtml' target='_blank'>web-advisors.ca</a> - &#8220;take 4&#8221; - In this episode I partnered with an ex-colleague and tried to play the &#8220;web design studio game&#8221;. (that one crushed in a hurry)"
+      "legacy": "<a href='https://tochakov.powweb.com/zzzmisc/xxx-offline-sites/wxx_web-advisors/web/index.shtml' target='_blank'>web-advisors.ca</a> - &#8220;take 4&#8221; - In this episode I partnered with an ex-colleague and tried to play the &#8220;web design studio game&#8221;. (that one crushed in a hurry)"
     },
     {
       "date": "2007 - Dec",
       "label": "resume",
-      "legacy": "<a href='/resume/' target='_blank'>timur.ca/resume</a> - Created an online version of my resume. <em>(ver. 1)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/resume-v1.png' target='_blank'>exhibit</a>"
+      "legacy": "<a href='/resume/' target='_blank'>timur.ca/resume</a> - Created an online version of my resume. <em>(ver. 1)</em> <a href='https://www.timur.ca/ZZZ/websitesArchieve/screenshots/resume-v1.png' target='_blank'>exhibit</a>"
     },
     {
       "date": "2007 - Aug",
       "label": "freelance",
-      "legacy": "<a href='http://tochakov.powweb.com/zzzmisc/xxx-offline-sites/wxx_WebsiteGuys/web/' target='_blank'>webdesignguys.ca</a> - this was &#8220;take 3&#8221;."
+      "legacy": "<a href='https://tochakov.powweb.com/zzzmisc/xxx-offline-sites/wxx_WebsiteGuys/web/' target='_blank'>webdesignguys.ca</a> - this was &#8220;take 3&#8221;."
     },
     {
       "date": "2006 - Sep",
       "label": "timur.ca",
-      "legacy": "Re-designed timur.ca <em>(ver. 3)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v3.png' target='_blank'>exhibit</a>"
+      "legacy": "Re-designed timur.ca <em>(ver. 3)</em> <a href='https://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v3.png' target='_blank'>exhibit</a>"
     },
     {
       "date": "2005 - Dec",
       "label": "freelance",
-      "legacy": "<a href='http://tochakov.powweb.com/zzzmisc/xxx-offline-sites/legacy/devcoast-v1.jpg' target='_blank'>devcoast.com</a> - &#8220;take 2&#8221; - Searching for a good domain name for my freelancing services."
+      "legacy": "<a href='https://tochakov.powweb.com/zzzmisc/xxx-offline-sites/legacy/devcoast-v1.jpg' target='_blank'>devcoast.com</a> - &#8220;take 2&#8221; - Searching for a good domain name for my freelancing services."
     },
     {
       "date": "2005 - Nov",
       "label": "project",
-      "legacy": "<a href='http://web.archive.org/web/20060907101109/http://www.pokeronlinelinks.com/' target='_blank'>pokeronlinelinks.com</a> - Created a poker directory as I was into poker at that time."
+      "legacy": "<a href='https://web.archive.org/web/20060907101109/https://www.pokeronlinelinks.com/' target='_blank'>pokeronlinelinks.com</a> - Created a poker directory as I was into poker at that time."
     },
     {
       "date": "2005 - Oct",
       "label": "project",
-      "legacy": "<a href='http://web.archive.org/web/20051107041753/http://www.onemilliondollarads.com/' target='_blank'>onemilliondollarads.com</a> - Remember this <a href='http://www.milliondollarhomepage.com/' target='_blank'>page</a>? A lot of people tried to clone this but only the original made money."
+      "legacy": "<a href='https://web.archive.org/web/20051107041753/https://www.onemilliondollarads.com/' target='_blank'>onemilliondollarads.com</a> - Remember this <a href='https://www.milliondollarhomepage.com/' target='_blank'>page</a>? A lot of people tried to clone this but only the original made money."
     },
     {
       "date": "2005 - Aug",
       "label": "timur.ca",
-      "legacy": "<a href='http://web.archive.org/web/20060115062806/http://www.timur.ca:80/' target='_blank'>timur.ca</a> - This domain was initially taken and I was really fortunate that I ended getting it years later :)"
+      "legacy": "<a href='https://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v3.png' target='_blank'>timur.ca</a> - This domain was initially taken and I was really fortunate that I ended getting it years later :)"
     },
     {
       "date": "2005 - Jan",
       "label": "freelance",
-      "legacy": "<a href='http://tochakov.powweb.com/zzzmisc/xxx-offline-sites/web-privet/wd' target='_blank'>privet.name</a> - Initially it was used as site for my freelancing services but then  I converted it to a <a href='http://web.archive.org/web/20050218094222/http://www.privet.name/' target='_blank'>russian music portal</a>."
+      "legacy": "<a href='https://tochakov.powweb.com/zzzmisc/xxx-offline-sites/web-privet/wd' target='_blank'>privet.name</a> - Initially it was used as site for my freelancing services but then  I converted it to a <a href='https://web.archive.org/web/20050311114732/http://tim0.net/cgi-bin/Privet.name/downloads.pl' target='_blank'>russian music portal</a>."
     },
     {
       "date": "2004 - Apr",
       "label": "project",
-      "legacy": "<a href='http://web.archive.org/web/20040610190618/http://www.mygta.ca/' target='_blank'>mygta.ca</a> - Very exciting domain name which I built into a local business directory. Years later, I did a re-design <a href='http://www.webforward.ca/MyProjects/webforward/prototypes/mygta-v2/reg.html' target='_blank'>2.0 version</a> but it didn't take off."
+      "legacy": "<a href='https://web.archive.org/web/20040610190618/https://www.mygta.ca/' target='_blank'>mygta.ca</a> - Very exciting domain name which I built into a local business directory. Years later, I did a re-design <a href='https://www.webforward.ca/MyProjects/webforward/prototypes/mygta-v2/reg.html' target='_blank'>2.0 version</a> but it didn't take off."
     },
     {
       "date": "2004 - Feb",
       "label": "project",
-      "legacy": "<a href='http://web.archive.org/web/20040615090400/http://carbazar.ca/' target='_blank'>carbazar.ca</a> - Was my first project where I learned some <b>perl</b> and built a dynamic website for auto dealers & consumers to post their car ads online."
+      "legacy": "<a href='https://web.archive.org/web/20040615090400/https://carbazar.ca/' target='_blank'>carbazar.ca</a> - Was my first project where I learned some <b>perl</b> and built a dynamic website for auto dealers & consumers to post their car ads online."
     },
     {
       "date": "2003 - Sep",
       "label": "timur.ca",
-      "legacy": "<a href='http://web.archive.org/web/20031119030749/http://tim0.net/' target='_blank'>tim0.net</a> - My very first domain that I bought which was used as my personal website. <em>(ver. 2)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v2.png' target='_blank'>exhibit</a>"
+      "legacy": "<a href='https://web.archive.org/web/20031119030749/https://tim0.net/' target='_blank'>tim0.net</a> - My very first domain that I bought which was used as my personal website. <em>(ver. 2)</em> <a href='https://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v2.png' target='_blank'>exhibit</a>"
     },
     {
       "date": "2002 - May",
       "label": "timur.ca",
-      "legacy": "<b>timur.2ya.com</b> - This was my very first web site that I ever developed which consisted of 5 cool flash animations... That's right!! It wasn't even a traditional HTML site and resided on a free domain somewhere.. too bad I didn't keep it in my archives. <em>(ver. 1)</em> <a href='http://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v1.png' target='_blank'>exhibit</a>"
+      "legacy": "<b>timur.2ya.com</b> - This was my very first web site that I ever developed which consisted of 5 cool flash animations... That's right!! It wasn't even a traditional HTML site and resided on a free domain somewhere.. too bad I didn't keep it in my archives. <em>(ver. 1)</em> <a href='https://www.timur.ca/ZZZ/websitesArchieve/screenshots/timur-v1.png' target='_blank'>exhibit</a>"
     }
   ],
   "page7": [{
-      "date": "2021 - Now",
+      "date": "2022 - Now",
+      "fulltime": "Front-end Developer at <a href='https://www.scotiabank.com/ca/en/personal.html' target='_blank'>Scotiabank</a>"
+    },{
+      "date": "2021 - 2022",
       "fulltime": "Front-end Developer at <a href='https://www.scotiabank.com/ca/en/personal.html' target='_blank'>Scotiabank</a> - contract with <a href='https://www.proviso.ca/' target='_blank'>ProViso</a>"
     },
     {
       "date": "2009 - 2021",
-      "fulltime": "Sr. Digital Developer Lead at <a href='http://www.rogers.com' target='_blank'>Rogers</a>"
+      "fulltime": "Sr. Digital Developer Lead at <a href='https://www.rogers.com' target='_blank'>Rogers</a>"
     },
     {
       "date": "2009 - 2009",
-      "fulltime": "Front-end Developer at <a href='http://www.rogerssportsandmedia.com' target='_blank'>Rogers Media</a> - contract with <a href='http://www.infotek-consulting.com' target='_blank'>InfoTek</a>"
+      "fulltime": "Front-end Developer at <a href='https://www.rogerssportsandmedia.com' target='_blank'>Rogers Media</a> - contract with <a href='https://infotek-consulting.com/' target='_blank'>InfoTek</a>"
     },
     {
       "date": "2008 - 2009",
-      "fulltime": "Front-end Developer at <a href='https://www.canadianbusiness.com/' target='_blank'>Canadian Business</a> - contract with <a href='http://www.infotek-consulting.com' target='_blank'>InfoTek</a>"
+      "fulltime": "Front-end Developer at <a href='https://www.canadianbusiness.com/' target='_blank'>Canadian Business</a> - contract with <a href='https://infotek-consulting.com/' target='_blank'>InfoTek</a>"
     },
     {
       "date": "2008 - 2008",
-      "fulltime": "Front-end Developer contract with <a href='http://www.webforward.ca/portfolio/beer/' target='_blank'>Dthree (Beer.com)</a>"
+      "fulltime": "Front-end Developer contract with <a href='https://www.webforward.ca/portfolio/beer/' target='_blank'>Dthree (Beer.com)</a>"
     },
     {
       "date": "2008 - 2008",
-      "fulltime": "Front-end Developer at <a href='http://www.mto.gov.on.ca/english/' target='_blank'>Ministry of Transportation</a> - contract with <a href='http://www.digitalembrace.com' target='_blank'>Digital Embrace</a>"
+      "fulltime": "Front-end Developer at <a href='https://www.ontario.ca/page/ministry-transportation' target='_blank'>Ministry of Transportation</a> - contract with <a href='https://www.digitalembrace.com' target='_blank'>Digital Embrace</a>"
     },
     {
       "date": "2007 - 2008",
-      "fulltime": "Front-end Developer at <a href='http://www.businessmedia.ca' target='_blank'>Business Media</a>"
+      "fulltime": "Front-end Developer at <a href='https://www.businessmedia.ca' target='_blank'>Business Media</a>"
     },
     {
       "date": "2006 - 2006",
-      "fulltime": "Webmaster/Front-end Developer at <a href='http://www.acdstudios.ca' target='_blank'>ACD Studios</a>"
+      "fulltime": "Webmaster/Front-end Developer at <a href='https://www.torontojobs.ca/company/20015/ACD-STUDIOS-CORP./' target='_blank'>ACD Studios</a>"
     },
     {
       "date": "",
-      "fulltime": "See <a href='http://www.timur.ca/resume' target='_blank'>detailed resume</a>"
+      "fulltime": "See <a href='https://www.timur.ca/resume' target='_blank'>detailed resume</a>"
     }
   ],
   "page8": [
+    {
+      "date": "2023 - Sep",
+      "club": "Lakeview GC",
+      "cp": "71",
+      "shots": "111",
+      "score": "+40",
+      "bog": "2",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$86.24",
+      "friends": "Andy, Olivia"
+    },
+    {
+      "date": "2023 - Apr",
+      "club": "Scarlett Woods",
+      "cp": "61",
+      "shots": "86",
+      "score": "+25",
+      "bog": "6",
+      "par": "3",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$41.57",
+      "friends": ""
+    },
     {
       "date": "2022 - Sep",
       "club": "Scarlett Woods",
