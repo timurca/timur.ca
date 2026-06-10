@@ -1,5 +1,8 @@
 [{
   "page2": [{
+      "date": "2026 - Mar",
+      "place": "Florida"
+    },{
       "date": "2025 - Feb",
       "place": "Florida"
     },{
@@ -476,6 +479,11 @@
   ],
   "page6": [
     {
+      "date": "2026 - Apr",
+      "label": "resume",
+      "legacy": "<a href='https://www.timur.ca/resume' target='_blank'>timur.ca/resume</a> - Re-designed my online resume <em>(ver. 4)</em>"
+    },
+    {
       "date": "2020 - Nov",
       "label": "project",
       "legacy": "<a href='https://www.timur.ca/nba' target='_blank'>timur.ca/nba</a> - NBA Playoffs History"
@@ -487,7 +495,7 @@
     },{
       "date": "2016 - Jan",
       "label": "resume",
-      "legacy": "<a href='https://www.timur.ca/resume' target='_blank'>timur.ca/resume</a> - Re-designed my online resume <em>(ver. 3)</em>"
+      "legacy": "Re-designed my online resume <em>(ver. 3)</em> <a href='https://timur.ca/resume/versionsArchieve/v3-2016-2026/' target='_blank'>exibit</a> "
     },{
       "date": "2013 - May",
       "label": "project",
@@ -650,6 +658,20 @@
     }
   ],
   "page8": [
+    {
+      "date": "2026 - Jun",
+      "club": "Scarlett Woods",
+      "cp": "61",
+      "shots": "96",
+      "score": "+35",
+      "bog": "8",
+      "par": "1",
+      "brd": "",
+      "egl": "",
+      "achievement": "",
+      "price": "$46.99",
+      "friends": ""
+    },
     {
       "date": "2025 - Sep",
       "club": "Scarlett Woods",
